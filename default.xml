@@ -8,7 +8,7 @@
            fetch="git://github.com/CyanogenMod/" />
 
   <remote  name="ls"
-           fetch="git://github.com/LiquidSmooth/" />
+           fetch="git://github.com/teaminfinitum/" />
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
