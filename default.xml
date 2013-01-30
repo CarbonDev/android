@@ -87,7 +87,7 @@
   <project path="external/easymock" name="platform/external/easymock" />
   <project path="external/eclipse-basebuilder" name="platform/external/eclipse-basebuilder" />
   <project path="external/eclipse-windowbuilder" name="platform/external/eclipse-windowbuilder" />
-  <project path="external/elfuticr" name="platform/external/elfuticr" />
+  <project path="external/elfutils" name="platform/external/elfutils" />
   <project path="external/embunit" name="platform/external/embunit" />
   <project path="external/emma" name="platform/external/emma" />
   <project path="external/esd" name="platform/external/esd" />
@@ -111,7 +111,7 @@
   <project path="external/hyphenation" name="platform/external/hyphenation" />
   <project path="external/icu4c" name="platform/external/icu4c" />
   <project path="external/iproute2" name="platform/external/iproute2" />
-  <project path="external/ipsec-toocr" name="platform/external/ipsec-toocr" />
+  <project path="external/ipsec-tools" name="platform/external/ipsec-tools" />
   <project path="external/iptables" name="platform/external/iptables" />
   <project path="external/jack" name="platform/external/jack" />
   <project path="external/javasqlite" name="android_external_javasqlite" remote="cm" revision="cm-10.1" />
@@ -147,7 +147,7 @@
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
-  <project path="external/linux-toocr-perf" name="platform/external/linux-toocr-perf" />
+  <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" />
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
@@ -194,7 +194,7 @@
   <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
   <project path="external/tcpdump" name="platform/external/tcpdump" />
-  <project path="external/tinyacra" name="platform/external/tinyacra" />
+  <project path="external/tinyalsa" name="platform/external/tinyalsa" />
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tinyxml2" name="platform/external/tinyxml2" />
   <project path="external/tremolo" name="platform/external/tremolo" />
@@ -254,7 +254,7 @@
   <project path="hardware/qcom/sensors" name="android_hardware_qcom_sensors" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" remote="cm" revision="cm-10.1" />
   <project path="hardware/ril" name="android_hardware_ril" remote="cm" revision="cm-10.1" />
-  <project path="hardware/samsung_scri/exynos5" name="android_hardware_samsung_scri_exynos5" remote="cm" revision="cm-10.1" />
+  <project path="hardware/samsung_slsi/exynos5" name="android_hardware_samsung_slsi_exynos5" remote="cm" revision="cm-10.1" />
   <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/omap3" name="android_hardware_ti_omap3" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/omap4xxx" name="hardware_ti_omap4xxx" remote="ub" revision="jb-mr1" />
@@ -332,7 +332,7 @@
   <project path="prebuilts/ndk" name="platform/prebuilts/ndk" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" />
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
-  <project path="prebuilts/toocr" name="platform/prebuilts/toocr" />
+  <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="android_sdk" remote="cm" revision="cm-10.1" />
   <project path="system/bluetooth" name="android_system_bluetooth" remote="cm" revision="cm-10.1" />
   <project path="system/core" name="android_system_core" remote="cr" revision="jb2" />
@@ -341,7 +341,7 @@
   <project path="system/netd" name="android_system_netd" remote="cm" revision="cm-10.1" />
   <project path="system/security" name="system_security" remote="ub" revision="jb-mr1" />
   <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
-  <project path="toocr/build" name="platform/toocr/build" groups="toocrbuild" />
+  <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.1" />
   <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.1" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-10.1" />
