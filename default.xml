@@ -24,7 +24,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="android_bionic" remote="ub" revision="jb-mr1" />
+  <project path="bionic" name="android_bionic" remote="cr" revision="jb2" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" />
   <project path="dalvik" name="android_dalvik" remote="cm" revision="cm-10.1" />
