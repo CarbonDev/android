@@ -37,7 +37,7 @@ Repositories:
 ---------------
 
 Before you continue --> run this in the terminal
-
+----------------------------------------
 repo init -u git://github.com/CarbonDev/android.git -b jb2 && repo sync -f
 
 *PLEASE NOTE THAT YOU MUST USE THE -f flag when repo syncing/initializing if you want to sync with our default -j4 setup as android.googlesource seems to like to reject your requests if you set your -jflag too high. 
