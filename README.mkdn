@@ -1,7 +1,9 @@
-LiquidSmooth Source
+Carbon-Dev Source
 ===================
-To get started with LiquidSmooth, you'll need to get
+To get started with Carbon-Dev sources, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/version-control.html).
+
+
 
 Create the Directories
 ----------------------
@@ -11,7 +13,9 @@ You will need to set up some directories in your build environment.
 To create them run:
 
     mkdir -p ~/bin
-    mkdir -p ~/liquid
+    mkdir -p ~/carbon
+
+
 
 Install the Repository
 ----------------------
@@ -25,16 +29,20 @@ Enter the following to download make executable the "repo" binary:
 You may need to reboot for these changes to take effect. 
 Now enter the following to initialize the repository:
 
-    cd ~/liquid
+    cd ~/carbon
+
+
 
 Repositories:
 ---------------
 
 Before you continue --> run this in the terminal
 
-    repo init -u git://github.com/CarbonDev/android.git -b jb2
+    repo init -u git://github.com/CarbonDev/android.git -b jb2 --config-name
 
     repo sync
+
+
 
 Building the System
 ---------------
@@ -44,11 +52,16 @@ Initialize the environment with the envsetup.sh script. Note that replacing "sou
     . build/envsetup.sh
     lunch
 
+
 Enter the number of the build you want to start and press enter
+
 
 Build the Code:
 
-    make liquid -j7 = Run Squisher/Run Opticharger
+    make carbon -j7 = Run Squisher/Run Opticharger
     make otapackage -j7 = No Squisher/No Opticharger
 
-If you have any issues/questions please contact us in channel: #liquids server: irc.freenode.net
+
+---------------
+
+If you have any issues/questions please contact us in channel: #teamcarbon  server: irc.freenode.net
