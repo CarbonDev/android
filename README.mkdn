@@ -67,4 +67,15 @@ Build the Code:
 
 ---------------
 
+---------------
+Git TrickMarks
+
+Creating a git branch with no ancestry
+git checkout --orphan <foo>
+git rm --cached $(git ls-files)
+git add NOTICE
+git commit -m "dummy commit"
+Then u push the goodies ;)
+
+
 If you have any issues/questions please contact us in channel: #teamcarbon  server: irc.freenode.net
