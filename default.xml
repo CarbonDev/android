@@ -171,7 +171,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="external_openssh" remote="ub" revision="jb-mr1" />
   <project path="external/openssl" name="external_openssl" remote="ub" revision="jb-mr1" />
-  <project path="external/oprofile" name="android_external_oprofile" revision="jb2" />
+  <project path="external/oprofile" name="android_external_oprofile" remote="cr" revision="jb2" />
   <project path="external/ping" name="external_ping" remote="ub" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="platform/external/ppp" />
