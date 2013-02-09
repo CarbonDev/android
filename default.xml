@@ -44,7 +44,7 @@
   <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" remote="cr" revision="jb2" />
   <project path="device/samsung/i605" name="android_device_samsung_i605" remote="cr" revision="jb2" />
   <project path="device/samsung/l900" name="android_device_samsung_l900" remote="cr" revision="jb2" />
-  <project path="device/samsung/i9300" name="android_device_samsung_i9100" remote="cr" revision="jb2" />
+  <project path="device/samsung/i9100" name="android_device_samsung_i9100" remote="cr" revision="jb2" />
   <project path="device/samsung/i9300" name="android_device_samsung_i9300" remote="cr" revision="jb2" />
   <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="cr" revision="jb2" />
   <project path="device/samsung/manta" name="android_device_samsung_manta" remote="cr" revision="jb2" />
