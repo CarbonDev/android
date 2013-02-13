@@ -38,7 +38,7 @@
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="cr" revision="jb2" />
   <project path="device/common" name="android_device_common" remote="cm" revision="mr1.1-staging" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb2" />
-  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="mr1.1-staging" />
+  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/ville" name="android_device_htc_ville" remote="cr" revision="jb2" />  
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb2" />
