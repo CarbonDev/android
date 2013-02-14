@@ -286,14 +286,14 @@
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cm" revision="mr1.1-staging" />
-  <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="cm" revision="mr1.1-staging" />
+  <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="cr" revision="jb2" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/Gallery2" name="android_packages_apps_Gallery2" remote="cm" revision="mr1.1-staging" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="cm" revision="mr1.1-staging" />
-  <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="cm" revision="mr1.1-staging" />
+  <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="cr" revision="jb2" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="cm" revision="mr1.1-staging" />
