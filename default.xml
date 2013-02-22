@@ -235,10 +235,10 @@
   <project path="frameworks/compile/llvm-ndk-cc" name="platform/frameworks/compile/llvm-ndk-cc" />
   <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" remote="ub" revision="jb-mr1" />
   <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" remote="cmdev" revision="cm-10.1-linaro" />
-  <project path="frameworks/ex" name="frameworks_ex" remote="cr" revision="jb2" />
+  <project path="frameworks/ex" name="android_frameworks_ex" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="frameworks/mff" name="platform/frameworks/mff" />
   <project path="frameworks/ml" name="platform/frameworks/ml" />
-  <project path="frameworks/native" name="android_frameworks_native" remote="cr" revision="jb2" />
+  <project path="frameworks/native" name="android_frameworks_native" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" />
   <project path="frameworks/opt/emoji" name="android_frameworks_opt_emoji" remote="cm" revision="cm-10.1" />
@@ -248,7 +248,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="cr" revision="jb2" />
   <project path="frameworks/opt/vcard" name="android_frameworks_opt_vcard" remote="cm" revision="cm-10.1" />
-  <project path="frameworks/rs" name="frameworks_rs" remote="cr" revision="jb2" />
+  <project path="frameworks/rs" name="frameworks_rs" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="frameworks/support" name="android_frameworks_support" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="frameworks/testing" name="platform/frameworks/testing" />
   <project path="frameworks/wilhelm" name="frameworks_wilhelm" remote="ub" revision="jb-mr1" />
