@@ -26,7 +26,7 @@
            fetch="git://github.com/koush/" />
 
   <remote  name="pa"
-           fetch="git://github.com/paranoidandroid/" />
+           fetch="git://github.com/ParanoidAndroid/" />
 
   <default revision="refs/tags/android-4.2.2_r1"
            remote="aosp"
