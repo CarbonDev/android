@@ -46,7 +46,8 @@
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb2" />
   <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="cr" revision="jb2" /> 
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/ville" name="android_device_htc_ville" remote="cr" revision="jb2" />  
+  <project path="device/htc/ville" name="android_device_htc_ville" remote="cr" revision="jb2" />
+  <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb2" />
   <project path="device/samsung/d2cri" name="android_device_samsung_d2cri" remote="cr" revision="jb2" />
@@ -290,6 +291,7 @@
   <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
+  <project path="kernel/samsung/dempsey" name="scotthartbti/android_kernel_samsung_dempsey" revision="cm10.1" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/manta" name="android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_smdk4210" remote="cm" revision="cm-10.1" />
