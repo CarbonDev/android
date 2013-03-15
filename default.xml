@@ -75,7 +75,7 @@
   <project path="device/samsung/toroplus" name="android_device_samsung_toroplus" remote="cr" revision="jb2" />
   <project path="device/samsung/t0lte" name="android_device_samsung_t0lte" remote="cr" revision="jb2" />
   <project path="device/samsung/t0ltecdma" name="android_device_samsung_t0ltecdma" remote="cr" revision="jb2" />
-  <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="cm" revision="cm-10.1" />
+  <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="cr" revision="jb2" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/armzipalign" name="platform_external_armzipalign" remote="cr" revision="master" />
   <project path="external/android-clat" name="platform/external/android-clat" />
