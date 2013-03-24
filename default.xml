@@ -294,7 +294,7 @@
   <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
   <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="cm10.1" />
-  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cr" revision="jb2" />
+  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cr" revision="jb2-3.0" />
   <project path="kernel/samsung/manta" name="android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_smdk4210" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cr" revision="jb2" />
