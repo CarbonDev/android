@@ -65,7 +65,7 @@
   <project path="device/samsung/i9305" name="android_device_samsung_i9305" remote="cr" revision="jb2" />
   <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="cr" revision="jb2" />
   <project path="device/samsung/manta" name="android_device_samsung_manta" remote="cr" revision="jb2" />
-  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="cr" revision="jb2" />
+  <project path="device/samsung/msm8960-common" name="android_device_samsung_msm8960-common" remote="cr" revision="jb2_3.0" />
   <project path="device/samsung/msm8660-common" name="android_device_samsung_msm8660-common" remote="cr" revision="jb2" />
   <project path="device/samsung/n7000" name="android_device_samsung_n7000" remote="cr" revision="jb2" />
   <project path="device/samsung/n7100" name="android_device_samsung_n7100" remote="cr" revision="jb2" />
@@ -294,7 +294,7 @@
   <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
   <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="cm10.1" />
-  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1_3.0" />
   <project path="kernel/samsung/manta" name="android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_smdk4210" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cr" revision="jb2" />
