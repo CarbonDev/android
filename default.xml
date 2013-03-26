@@ -386,7 +386,6 @@
   <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.1" />
-  <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.1" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="cr" revision="jb2" />
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
   <project path="vendor/htc" name="iGio90/android_vendor_htc" remote="gh" revision="bam6"
@@ -394,7 +393,6 @@
   <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.1" />
   <project path="vendor/carbon" name="android_vendor_carbon" remote="cr" revision="jb2" />
   <project path="vendor/lge" name="android_vendor_lge" remote="cr" revision="jb2" />
-  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.1" />
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.1" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="cr" revision="jb2" />
   <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="cr" revision="jellybean" />
