@@ -49,11 +49,11 @@
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb2" />
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb2" />
+  <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb2_3.0" />
   <project path="device/samsung/d2cri" name="android_device_samsung_d2cri" remote="cr" revision="jb2" />
   <project path="device/samsung/d2mtr" name="android_device_samsung_d2mtr" remote="cr" revision="jb2" />
   <project path="device/samsung/d2spr" name="android_device_samsung_d2spr" remote="cr" revision="jb2" />
-  <project path="device/samsung/d2tmo" name="android_device_samsung_d2tmo" remote="cr" revision="jb2" />
+  <project path="device/samsung/d2tmo" name="android_device_samsung_d2tmo" remote="cr" revision="jb2_3.0" />
   <project path="device/samsung/d2usc" name="android_device_samsung_d2usc" remote="cr" revision="jb2" />
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cr" revision="jb2" />
   <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="cr" revision="jb2" />
