@@ -62,7 +62,7 @@
   <project path="device/samsung/d2usc" name="android_device_samsung_d2usc" remote="cr" revision="jb2" />
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cr" revision="jb2" />
   <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="cr" revision="jb2" />
-  <project path="device/samsung/skyrocket" name="android_device_samsung_skyrocket" remote="cr" revision="jb2" />
+  <project path="device/samsung/hercules" name="android_device_samsung_skyrocket" remote="cr" revision="jb2" />
   <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" remote="cr" revision="jb2" />
   <project path="device/samsung/i605" name="android_device_samsung_i605" remote="cr" revision="jb2" />
   <project path="device/samsung/l900" name="android_device_samsung_l900" remote="cr" revision="jb2" />
