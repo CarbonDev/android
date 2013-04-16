@@ -39,7 +39,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="android_bionic" remote="cr" revision="stock" />
+  <project path="bionic" name="android_bionic" remote="cr" revision="jb2-EXP" />
   <project path="bootable/diskinstaller" name="android_bootable_diskinstaller" remote="cm" revision="cm-10.1" />
   <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="dalvik" name="android_dalvik" remote="cr" revision="cm-10.1-linaro" />
@@ -47,9 +47,8 @@
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="cr" revision="jb2" />
   <project path="device/asus/tilapia" name="android_device_asus_tilapia" remote="cr" revision="jb2" />
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/endeavoru" name="android_device_htc_endeavoru" remote="cr" revision="jb2" />
   <project path="device/htc/evita" name="android_device_sony_pepper" remote="nc" revision="jb2" />
+  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/ville" name="android_device_sony_peppercorn" remote="nc" revision="jb2" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb2" />
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="cr" revision="jb2" />
@@ -299,16 +298,10 @@
   <project path="hardware/ti/omap4xxx" name="android_hardware_ti_omap4xxx" remote="cr" revision="jb2" />
   <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="cm" revision="cm-10.1" />
-  <project path="kernel/asus/grouper" name="android_kernel_asus_grouper" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
-  <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="cm10.1" />
-  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/manta" name="android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
-  <project path="kernel/samsung/msm8660-common" name="android_kernel_samsung_msm8660-common" remote="cm" revision="cm-10.1" />
-  <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_smdk4210" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cr" revision="jb2" />
-  <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" remote="cm" revision="cm-10.1" />
   <project path="libcore" name="android_libcore" remote="cr" revision="jb2" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
@@ -400,7 +393,6 @@
   <project path="system/vold" name="android_system_vold" remote="cm" revision="cm-10.1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.1" />
-  <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.1" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="cr" revision="jb2" />
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
   <project path="vendor/htc" name="iGio90/android_vendor_htc" remote="gh" revision="bam6" />
@@ -408,7 +400,6 @@
   <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.1" />
   <project path="vendor/carbon" name="android_vendor_carbon" remote="cr" revision="jb2" />
   <project path="vendor/lge" name="android_vendor_lge" remote="cr" revision="jb2" />
-  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.1" />
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.1" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="cr" revision="jb2" />
   <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="cr" revision="jellybean" />
