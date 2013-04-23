@@ -55,6 +55,7 @@
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="cr" revision="jb2" />
   <project path="device/samsung/celox-common" name="android_device_samsung_celox-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb2" />
+  <project path="device/samsung/crespo" name="android_device_samsung_crespo" remote="cr" revision="jb2" />
   <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb2" />
   <project path="device/samsung/d2cri" name="android_device_samsung_d2cri" remote="cr" revision="jb2" />
   <project path="device/samsung/d2mtr" name="android_device_samsung_d2mtr" remote="cr" revision="jb2" />
