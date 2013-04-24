@@ -48,12 +48,12 @@
   <project path="device/asus/tilapia" name="android_device_asus_tilapia" remote="cr" revision="jb2" />
   <project path="device/common" name="android_device_common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/evita" name="android_device_sony_pepper" remote="nc" revision="jb2" />
-  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/ville" name="android_device_sony_peppercorn" remote="nc" revision="jb2" />
+  <project path="device/htc/ville" name="android_device_htc_ville" remote="cr" revision="jb2" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb2" />
   <project path="device/samsung/aries-common" name="android_device_samsung_aries-common" remote="cr" revision="jb2" />
   <project path="device/samsung/celox-common" name="android_device_samsung_celox-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb2" />
+  <project path="device/samsung/crespo" name="android_device_samsung_crespo" remote="cr" revision="jb2" />
   <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb2" />
   <project path="device/samsung/d2cri" name="android_device_samsung_d2cri" remote="cr" revision="jb2" />
   <project path="device/samsung/d2mtr" name="android_device_samsung_d2mtr" remote="cr" revision="jb2" />
@@ -76,12 +76,16 @@
   <project path="device/samsung/n7000" name="android_device_samsung_n7000" remote="cr" revision="jb2" />
   <project path="device/samsung/n7100" name="android_device_samsung_n7100" remote="cr" revision="jb2" />
   <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cm" revision="cm-10.1" />
+  <project path="device/samsung/quincy-common" name="android_device_samsung_quincy-common" remote="cm" revision="cm-10.1" />
+  <project path="device/samsung/quincytmo" name="android_device_samsung_quincytmo" remote="cr" revision="jb2" />
   <project path="device/samsung/skyrocket" name="android_device_samsung_skyrocket" remote="cr" revision="jb2" />
   <project path="device/samsung/smdk4412-common" name="android_device_samsung_smdk4412-common" remote="cr" revision="jb2" />
   <project path="device/samsung/smdk4412-qcom-common" name="android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/toro" name="android_device_samsung_toro" remote="cr" revision="jb2" />
   <project path="device/samsung/toroplus" name="android_device_samsung_toroplus" remote="cr" revision="jb2" />
   <project path="device/samsung/t0lte" name="android_device_samsung_t0lte" remote="cr" revision="jb2" />
+  <project path="device/samsung/t0lteatt" name="android_device_samsung_t0lteatt" remote="cr" revision="jb2" />
+  <project path="device/samsung/t0ltetmo" name="android_device_samsung_t0ltetmo" remote="cr" revision="jb2" />
   <project path="device/samsung/t0ltecdma" name="android_device_samsung_t0ltecdma" remote="cr" revision="jb2" />
   <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="cr" revision="jb2" />
   <project path="external/aac" name="platform/external/aac" />
@@ -243,6 +247,7 @@
   <project path="external/webrtc" name="platform/external/webrtc" />
   <project path="external/wpa_supplicant_6" name="platform/external/wpa_supplicant_6" />
   <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="cr" revision="jb2" />
+  <project path="external/wpa_supplicant_8_ti" name="android_external_wpa_supplicant_8_ti" remote="cm" revision="cm-10.1" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
@@ -283,7 +288,7 @@
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cr" revision="jb2" />
-  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cr" revision="jb2" />
+  <project path="hardware/qcom/display-caf" name="android_hardware_qcom_display-caf" remote="cr" revision="cm-10.1" />
   <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/keymaster" name="android_hardware_qcom_keymaster" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="cr" revision="jb2" />
@@ -300,6 +305,11 @@
   <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
+  <project path="kernel/samsung/crespo" name="android_kernel_samsung_crespo" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="beanstalk" />
+  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
+  <project path="kernel/htc/endeavoru" name="android_kernel_htc_endeavoru" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/epicmtd" name="android_kernel_samsung_epicmtd" remote="cm" revision="cm-10.1" />  
   <project path="kernel/samsung/manta" name="android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/smdk4412" name="android_kernel_samsung_smdk4412" remote="cr" revision="jb2" />
   <project path="libcore" name="android_libcore" remote="cr" revision="jb2" />
@@ -312,7 +322,9 @@
   <project path="packages/apps/Camera" name="Root-Box/packages_apps_Camera" remote="gh" revision="jb-mr1" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
+  <project path="packages/apps/CMFileManager" name="android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="cr" revision="jb2" />
+  <project path="packages/apps/DashClock" name="XYAOSP/packages_apps_DashClock" remote="gh" revision="jb4.2" />
   <project path="packages/apps/DeskClock" name="android_packages_apps_DeskClock" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Email" name="android_packages_apps_Email" remote="cr" revision="jb2" />
   <project path="packages/apps/Exchange" name="android_packages_apps_Exchange" remote="cm" revision="cm-10.1" />
@@ -321,10 +333,10 @@
   <project path="packages/apps/Launcher2" name="android_packages_apps_Launcher2" remote="cr" revision="jb2" />
   <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Mms" name="android_packages_apps_Mms" remote="cr" revision="jb2" />
-  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="cr" revision="jb2" />
+  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" revision="refs/tags/android-4.2.2_r1"/>
+  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="kejar31" revision="jb-mr1" />
-  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
+  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="cr" revision="jb2" />
   <project path="packages/apps/SamsungServiceMode" name="android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cr" revision="jb2" />
@@ -340,7 +352,7 @@
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="cr" revision="jb2" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="cr" revision="jb2" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
-  <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" />
+  <project path="packages/providers/MediaProvider" name="SlimRoms/packages_providers_MediaProvider" remote="gh" revision="jb4.2" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="cm" revision="cm-10.1" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
