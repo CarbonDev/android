@@ -316,6 +316,8 @@
   <project path="kernel/htc/endeavoru" name="android_kernel_htc_endeavoru" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8960" name="android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
+  <project path="kernel/motorola/omap4-common" name="android_kernel_motorola_omap4-common" remote="cm" revision="cm-10.1" />
+  <project path="kernel/motorola-omap4-kexec" name="android_kernel_motorola_omap4-kexec-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/crespo" name="android_kernel_samsung_crespo" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="beanstalk" />
   <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
