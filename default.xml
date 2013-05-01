@@ -86,7 +86,7 @@
   <project path="device/samsung/msm8660-common" name="android_device_samsung_msm8660-common" remote="cr" revision="jb2" />
   <project path="device/samsung/n7000" name="android_device_samsung_n7000" remote="cr" revision="jb2" />
   <project path="device/samsung/n7100" name="android_device_samsung_n7100" remote="cr" revision="jb2" />
-  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cr" revision="jb2" />
+  <project path="device/samsung/qcom-common" name="android_device_samsung_qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/quincy-common" name="android_device_samsung_quincy-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/quincytmo" name="android_device_samsung_quincytmo" remote="cr" revision="jb2" />
   <project path="device/samsung/skyrocket" name="android_device_samsung_skyrocket" remote="cr" revision="jb2" />
