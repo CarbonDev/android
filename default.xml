@@ -325,7 +325,7 @@
   <project path="kernel/motorola/omap4-kexec-common" name="android_kernel_motorola_omap4-kexec-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/crespo" name="android_kernel_samsung_crespo" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="beanstalk" />
-  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
+  <project path="kernel/samsung/d2" name="android_kernel_samsung_d2" remote="cr" revision="cm-10.1" />
   <project path="kernel/samsung/epicmtd" name="android_kernel_samsung_epicmtd" remote="cm" revision="cm-10.1" />  
   <project path="kernel/samsung/manta" name="android_kernel_samsung_manta" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/msm8660-common" name="android_kernel_samsung_msm8660-common" remote="cm" revision="cm-10.1" />
