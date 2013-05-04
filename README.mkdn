@@ -1,8 +1,10 @@
 Carbon-Dev Source
 ===================
+
+Getting Started
+---------------
 To get started with Carbon-Dev sources, you'll need to get
 familiar with [Git and Repo](http://source.android.com/source/version-control.html).
-
 
 
 Create the Directories
@@ -14,7 +16,6 @@ To create them run:
 
     mkdir -p ~/bin
     mkdir -p ~/carbon
-
 
 
 Install the Repository
@@ -32,7 +33,6 @@ Now enter the following to initialize the repository:
     cd ~/carbon
 
 
-
 Repositories:
 ---------------
 
@@ -42,9 +42,6 @@ Before you continue --> run this in the terminal
 
 *PLEASE NOTE THAT YOU MUST USE THE -f flag when repo syncing/initializing if you want to sync with our default -j4 setup as android.googlesource seems to like to reject your requests if you set your -jflag too high. 
 if you wish to avoid this issue run it repo sync -j1 otherwise -f (force) is reccomended so it will resync the repos it gets error codes on. Thank you and have a nice day.*
-
-    
-
 
 
 Building the System
@@ -66,8 +63,6 @@ Build the Code:
 
 
 ---------------
-
----------------
 Git TrickMarks
 
 Creating a git branch with no ancestry
@@ -76,6 +71,29 @@ git rm --cached $(git ls-files)
 git add NOTICE
 git commit -m "dummy commit"
 Then u push the goodies ;)
+
+
+Submitting Patches
+------------------
+Patches are always welcome!  Please submit your patches via CarbonDev Gerrit!
+You can do this by using these commands:
+
+    (From root android directory)
+    . build/envsetup.sh
+    Go to repo you are patching, repo start jb2 .
+    make your changes and commit
+    repo upload .
+
+    repo start jellybean .
+    (Make your changes and commit)
+    repo upload .
+Note: "." meaning current directory
+For more help on using this tool, use this command: repo help upload
+
+Make your changes and commit with a detailed message, starting with what you are working with (i.e. vision: Update Kernel)
+Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
+
+To view the status of your and others' patches, visit [Carbondev Code Review](http://androidhosting.org:8080/)
 
 
 If you have any issues/questions please contact us in channel: #teamcarbon  server: irc.freenode.net

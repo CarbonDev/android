@@ -2,13 +2,16 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="http://android.googlesource.com/" />
+           fetch="http://android.googlesource.com/" 
+           review="https://android-review.googlesource.com/" />
 
   <remote  name="cm"
-           fetch="git://github.com/CyanogenMod/" />
+           fetch="git://github.com/CyanogenMod/" 
+           review="review.cyanogenmod.org" />
 
   <remote  name="cr"
-           fetch="git://github.com/CarbonDev/" />
+           fetch="git://github.com/CarbonDev/" 
+           review="androidhosting.org:8080" />
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
