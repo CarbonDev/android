@@ -56,7 +56,6 @@
   <project path="device/htc/endeavoru" name="CarbonDev/android_device_htc_endeavoru" remote="cr" revision="jb2" />
   <project path="device/htc/evita" name="android_device_sony_pepper" remote="nc" revision="jb2" />
   <project path="device/htc/m7" name="CarbonDev/android_device_htc_m7" remote="cr" revision="jb2" />
-  <project path="device/htc/m7-common" name="htc-msm8960/android_device_htc_m7-common" remote="gh" revision="cm-10.1" />
   <project path="device/htc/ville" name="CarbonDev/android_device_htc_ville" remote="cr" revision="jb2" />
   <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" remote="cr" revision="jb2" />
   <project path="device/motorola/maserati" name="CarbonDev/android_device_motorola_maserati" remote="cr" revision="jb2" />
