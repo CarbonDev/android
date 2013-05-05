@@ -65,14 +65,17 @@ Build the Code:
 ---------------
 Git TrickMarks
 
-Creating a git branch with no ancestry
-git checkout --orphan <foo>
-git rm --cached $(git ls-files)
-git add NOTICE
-git commit -m "dummy commit"
-git config --global review.androidhosting.org:8080.username <Your username registered at CarbonDev gerrit>
-git config --global review.androidhosting.org:8080.email <Your email registered at CarbonDev gerrit>
-Then u push the goodies ;)
+    Creating a git branch with no ancestry:
+    git checkout --orphan <foo>
+    git rm --cached $(git ls-files)
+    git add NOTICE
+    git commit -m "dummy commit"
+    Then u push the goodies ;)
+
+    Setting up for repo upload:
+    git config --global review.androidhosting.org:8080.username <Your username registered at CarbonDev gerrit>
+    git config --global review.androidhosting.org:8080.email <Your email registered at CarbonDev gerrit>
+
 
 
 Submitting Patches
