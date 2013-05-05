@@ -89,7 +89,7 @@ You can do this by using these commands:
     make your changes and commit
     repo upload .
 
-    repo start jellybean .
+    repo start jb2 .
     (Make your changes and commit)
     repo upload .
 Note: "." meaning current directory
