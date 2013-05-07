@@ -64,7 +64,7 @@
   <project path="device/motorola/targa" name="CarbonDev/android_device_motorola_targa" remote="cr" revision="jb2" />
   <project path="device/motorola/umts_spyder" name="CarbonDev/android_device_motorola_umts_spyder" remote="cr" revision="jb2" />
   <project path="device/motorola/omap4-common" name="CarbonDev/android_device_motorola_omap4-common" remote="cr" revision="jb2" />
-  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="cm" revision="jb2" />
+  <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/celox-common" name="CarbonDev/android_device_samsung_celox-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="CarbonDev/android_device_samsung_d2-common" remote="cr" revision="jb2" />
   <project path="device/samsung/crespo" name="CarbonDev/android_device_samsung_crespo" remote="cr" revision="jb2" />
