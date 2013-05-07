@@ -342,7 +342,7 @@
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-10.1" />
-  <project path="packages/apps/Camera" name="Root-Box/packages_apps_Camera" remote="gh" revision="jb-mr1" />
+  <project path="packages/apps/Camera" name="Cyanogenmod/android_packages_apps_Camera" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
