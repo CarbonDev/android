@@ -79,6 +79,7 @@
   <project path="device/samsung/d710" name="CarbonDev/android_device_samsung_d710" remote="cr" revision="jb2" />
   <project path="device/samsung/galaxys2-common" name="CarbonDev/android_device_samsung_galaxys2-common" remote="cr" revision="jb2" />
   <project path="device/samsung/hercules" name="CarbonDev/android_device_samsung_hercules" remote="cr" revision="jb2" />
+  <project path="device/samsung/fascinatemtd" name="C457/device_samsung_fascinatemtd" remote="gh" revision="jb2" />
   <project path="device/samsung/infuse4g" name="CarbonDev/android_device_samsung_infuse4g" remote="cr" revision="jb2" />
   <project path="device/samsung/i777" name="CarbonDev/android_device_samsung_i777" remote="cr" revision="jb2" />
   <project path="device/samsung/i605" name="CarbonDev/android_device_samsung_i605" remote="cr" revision="jb2" />
