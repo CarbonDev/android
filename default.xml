@@ -440,7 +440,7 @@
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
   <project path="vendor/htc" name="iGio90/android_vendor_htc" remote="gh" revision="bam6" />
   <project path="vendor/htc/m7" name="htc-msm8960/android_vendor_htc_m7" remote="gh" revision="cm-10.1" />
-  <project path="vendor/htc/m7-common" name="android_vendor_htc_m7-common" remote="cm" revision="cm-10.1" />
+  <project path="vendor/htc/m7-common" name="htc-msm8960/android_vendor_htc_m7-common" remote="gh" revision="cm-10.1" />
   <project path="vendor/htc/m7wls" name="htc-msm8960/android_vendor_htc_m7wls" remote="gh" revision="cm-10.1" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.1" />
   <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.1" />
