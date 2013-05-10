@@ -51,8 +51,8 @@
   <project path="device/asus/grouper" name="CarbonDev/android_device_asus_grouper" remote="cr" revision="jb2" />
   <project path="device/asus/tilapia" name="CarbonDev/android_device_asus_tilapia" remote="cr" revision="jb2" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.1" />
-  <project path="device/htc/apq8064-common" name="htc-msm8960/android_device_htc_apq8064-common" remote="gh" revision="cm-10.1" />
-  <project path="device/htc/msm8960-common" name="htc-msm8960/android_device_htc_msm8960-common" remote="gh" revision="cm-10.1" />
+  <project path="device/htc/apq8064-common" name="android_device_htc_apq8064-common" remote="cm" revision="cm-10.1" />
+  <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/msm8660-common" name="midnight88/android_device_htc_msm8660-common" remote="gh" revision="carbon" />
   <project path="device/htc/endeavoru" name="CarbonDev/android_device_htc_endeavoru" remote="cr" revision="jb2" />
   <project path="device/htc/evita" name="android_device_sony_pepper" remote="nc" revision="jb2" />
@@ -327,7 +327,7 @@
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-10.1" />
   <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/endeavoru" name="CyanogenMod/android_kernel_htc_endeavoru" remote="cm" revision="cm-10.1" />
-  <project path="kernel/htc/m7" name="htc-msm8960/android_kernel_htc_m7" remote="gh" revision="cm-10.1" />
+  <project path="kernel/htc/m7" name="android_kernel_htc_m7" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8660" name="midnight88/android_kernel_htc_msm8660" remote="gh" revision="carbon" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
   <project path="kernel/motorola/omap4-common" name="CyanogenMod/android_kernel_motorola_omap4-common" remote="cm" revision="cm-10.1" />
@@ -440,7 +440,7 @@
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
   <project path="vendor/htc" name="iGio90/android_vendor_htc" remote="gh" revision="bam6" />
   <project path="vendor/htc/m7" name="htc-msm8960/android_vendor_htc_m7" remote="gh" revision="cm-10.1" />
-  <project path="vendor/htc/m7-common" name="htc-msm8960/android_vendor_htc_m7-common" remote="gh" revision="cm-10.1" />
+  <project path="vendor/htc/m7-common" name="android_vendor_htc_m7-common" remote="cm" revision="cm-10.1" />
   <project path="vendor/htc/m7wls" name="htc-msm8960/android_vendor_htc_m7wls" remote="gh" revision="cm-10.1" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.1" />
   <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.1" />
