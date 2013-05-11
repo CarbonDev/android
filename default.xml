@@ -52,6 +52,7 @@
   <project path="device/asus/tilapia" name="CarbonDev/android_device_asus_tilapia" remote="cr" revision="jb2" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/apq8064-common" name="CyanogenMod/android_device_htc_apq8064-common" remote="cm" revision="cm-10.1" />
+  <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/msm8660-common" name="midnight88/android_device_htc_msm8660-common" remote="gh" revision="carbon" />
   <project path="device/htc/endeavoru" name="CarbonDev/android_device_htc_endeavoru" remote="cr" revision="jb2" />
   <project path="device/htc/evita" name="android_device_sony_pepper" remote="nc" revision="jb2" />
