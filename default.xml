@@ -365,7 +365,7 @@
   <project path="packages/apps/Nfc" name="CarbonDev/android_packages_apps_Nfc" remote="cr" revision="jb2" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="refs/tags/android-4.2.2_r1.1" />
   <project path="packages/apps/PerformanceControl" name="packages_apps_PerformanceControl" remote="kejar31" revision="jb-mr1" />
-  <project path="packages/apps/PermissionsManager" name="ChameleonOS/android_packages_apps_PermissionsManager" remote="gh" revision="jellybean-mr1" />
+  <project path="packages/apps/PermissionsManager" name="AOKP/packages_apps_PermissionsManager" remote="gh" revision="jb-mr1" />
   <project path="packages/apps/Phone" name="CarbonDev/android_packages_apps_Phone" remote="cr" revision="jb2" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Settings" name="CarbonDev/android_packages_apps_Settings" remote="cr" revision="jb2" />
