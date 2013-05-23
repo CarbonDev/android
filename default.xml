@@ -50,7 +50,7 @@
   <project path="development" name="CarbonDev/android_development" remote="cr" revision="jb2" />
   <project path="device/asus/grouper" name="CarbonDev/android_device_asus_grouper" remote="cr" revision="jb2" />
   <project path="device/asus/tilapia" name="CarbonDev/android_device_asus_tilapia" remote="cr" revision="jb2" />
-  <project path="device/bn/acclaim" name="CarbonDev/ android_device_bn_acclaim" remote="cr" revision="jb2" />
+  <project path="device/bn/acclaim" name="CarbonDev/android_device_bn_acclaim" remote="cr" revision="jb2" />
   <project path="device/bn/omap4-common" name="CyanogenMod/android_device_bn_omap4-common" remote="cm" revision="cm-10.1" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
