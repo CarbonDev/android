@@ -71,6 +71,9 @@
   <project path="device/motorola/targa" name="CarbonDev/android_device_motorola_targa" remote="cr" revision="jb2" />
   <project path="device/motorola/umts_spyder" name="CarbonDev/android_device_motorola_umts_spyder" remote="cr" revision="jb2" />
   <project path="device/motorola/omap4-common" name="CarbonDev/android_device_motorola_omap4-common" remote="cr" revision="jb2" />
+  <project path="device/motorola/msm8960-common" name="razrqcom-dev-team/android_device_motorola_msm8960-common" remote="gh" revision="cm-10.1" />
+  <project path="device/motorola/xt897" name="CarbonDev/android_device_motorola_xt897" remote="cr" revision="jb2" />
+  <project path="device/motorola/xt897c" name="CarbonDev/android_device_motorola_xt897c" remote="cr" revision="jb2" />
   <project path="device/samsung/aries-common" name="scotthartbti/android_device_samsung_aries-common" remote="gh" revision="cm-10.1" />
   <project path="device/samsung/celox-common" name="CarbonDev/android_device_samsung_celox-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="CarbonDev/android_device_samsung_d2-common" remote="cr" revision="jb2" />
@@ -337,6 +340,7 @@
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
   <project path="kernel/motorola/omap4-common" name="CyanogenMod/android_kernel_motorola_omap4-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/motorola/omap4-kexec-common" name="CyanogenMod/android_kernel_motorola_omap4-kexec-common" remote="cm" revision="cm-10.1" />
+  <project path="kernel/motorola/msm8960-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960-common" remote="gh" revision="cm-10.1" />
   <project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="beanstalk" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
@@ -449,6 +453,7 @@
   <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" remote="cr" revision="jb2" />
   <project path="vendor/lge" name="CarbonDev/android_vendor_lge" remote="cr" revision="jb2" />
   <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-10.1" />
+  <project path="vendor/motorola/xt897" name="razrqcom-dev-team/android_vendor_motorola_xt897" remote="gh" revision="cm-10.1" />
   <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.1" />
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.1" />
   <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" remote="cr" revision="jb2" />
