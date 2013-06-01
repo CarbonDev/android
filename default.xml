@@ -3,15 +3,21 @@
 
   <remote  name="aosp"
            fetch="http://android.googlesource.com/" 
-           review="https://android-review.googlesource.com/" />
+           review="https://android-review.googlesource.com/" 
+           sync-c="true"
+           sync-j="4"/>
 
   <remote  name="cm"
            fetch="git://github.com/" 
-           review="review.cyanogenmod.org" />
+           review="review.cyanogenmod.org" 
+           sync-c="true"
+           sync-j="4"/>
 
   <remote  name="cr"
            fetch="git://github.com/"
-           review="androidhosting.org:8080" />
+           review="androidhosting.org:8080" 
+           sync-c="true"
+           sync-j="16"/>
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
@@ -32,13 +38,16 @@
            fetch="git://github.com/nocoast/" />
            
   <remote  name="gh"
-           fetch="git://github.com/" />
+           fetch="git://github.com/"
+           sync-c="true"
+           sync-j="4"/>
 
   <remote  name="bitbucket"
            fetch="https://bitbucket.org/" />
 
   <default revision="refs/tags/android-4.2.2_r1"
            remote="aosp"
+           sync-c="true"
            sync-j="4" />
 
   <project path="build" name="CarbonDev/android_build" remote="cr" revision="jb2">
