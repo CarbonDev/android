@@ -107,7 +107,10 @@
   <project path="device/samsung/i9100" name="CarbonDev/android_device_samsung_i9100" remote="cr" revision="jb2" />
   <project path="device/samsung/i9300" name="CarbonDev/android_device_samsung_i9300" remote="cr" revision="jb2" />
   <project path="device/samsung/i9305" name="CarbonDev/android_device_samsung_i9305" remote="cr" revision="jb2" />
+  <project path="device/samsung/jflteatt" name="CarbonDev/android_device_samsung_jflteatt" remote="cr" revision="cm-10.1" />  
   <project path="device/samsung/jf-common" name="CarbonDev/android_device_samsung_jf-common" remote="cr" revision="jb2" />
+  <project path="device/samsung/jfltetmo" name="CarbonDev/android_device_samsung_jfltetmo" remote="cr" revision="cm-10.1" />
+  <project path="device/samsung/jfltespr" name="CarbonDev/android_device_samsung_jfltespr" remote="cr" revision="cm-10.1" />
   <project path="device/samsung/jfltevzw" name="CarbonDev/android_device_samsung_jfltevzw" remote="cr" revision="jb2" />
   <project path="device/samsung/maguro" name="CarbonDev/android_device_samsung_maguro" remote="cr" revision="jb2" />
   <project path="device/samsung/manta" name="CarbonDev/android_device_samsung_manta" remote="cr" revision="jb2" />
