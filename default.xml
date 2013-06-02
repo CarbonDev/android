@@ -126,7 +126,7 @@
   <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/toro" name="CarbonDev/android_device_samsung_toro" remote="cr" revision="jb2" />
   <project path="device/samsung/toroplus" name="CarbonDev/android_device_samsung_toroplus" remote="cr" revision="jb2" />
-  <project path="device/samsung/t0lte" name="VanillaNexus/android_device_samsung_t0lte" remote="gh" revision="cm-10.1" />
+  <project path="device/samsung/t0lte" name="VanillaNexus/android_device_samsung_t0lte" remote="gh" revision="jb2" />
   <project path="device/samsung/t0lteatt" name="CarbonDev/android_device_samsung_t0lteatt" remote="cr" revision="jb2" />
   <project path="device/samsung/t0ltetmo" name="CarbonDev/android_device_samsung_t0ltetmo" remote="cr" revision="jb2" />
   <project path="device/samsung/t0ltecdma" name="CarbonDev/android_device_samsung_t0ltecdma" remote="cr" revision="jb2" />
