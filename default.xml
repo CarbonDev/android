@@ -86,6 +86,7 @@
   <project path="device/motorola/msm8960-common" name="razrqcom-dev-team/android_device_motorola_msm8960-common" remote="gh" revision="cm-10.1" />
   <project path="device/motorola/xt897" name="CarbonDev/android_device_motorola_xt897" remote="cr" revision="jb2" />
   <project path="device/motorola/xt897c" name="CarbonDev/android_device_motorola_xt897c" remote="cr" revision="jb2" />
+  <project path="device/motorola/xt907" name="CarbonDev/android_device_motorola_xt907" remote="cr" revision="jb2" />
   <project path="device/motorola/xt925" name="CarbonDev/android_device_motorola_xt925" remote="cr" revision="jb2" />
   <project path="device/motorola/xt926" name="CarbonDev/android_device_motorola_xt926" remote="cr" revision="jb2" />
   <project path="device/samsung/aries-common" name="scotthartbti/android_device_samsung_aries-common" remote="gh" revision="cm-10.1" />
@@ -474,6 +475,7 @@
   <project path="vendor/lge" name="CarbonDev/android_vendor_lge" remote="cr" revision="jb2" />
   <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-10.1" />
   <project path="vendor/motorola/xt897" name="razrqcom-dev-team/android_vendor_motorola_xt897" remote="gh" revision="cm-10.1" />
+  <project path="vendor/motorola/xt907" name="razrqcom-dev-team/android_vendor_motorola_xt907" remote="gh" revision="cm-10.1" />
   <project path="vendor/motorola/xt925" name="razrqcom-dev-team/android_vendor_motorola_xt925" remote="gh" revision="cm-10.1" />
   <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926" remote="gh" revision="cm-10.1" />
   <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.1" />
