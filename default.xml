@@ -125,6 +125,7 @@
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/quincy-common" name="CyanogenMod/android_device_samsung_quincy-common" remote="cm" revision="cm-10.1" />
   <project path="device/samsung/quincytmo" name="CarbonDev/android_device_samsung_quincytmo" remote="cr" revision="jb2" />
+  <project path="device/samsung/quincyatt" name="CarbonDev/android_device_samsung_quincyatt" remote="cr" revision="jb2" />
   <project path="device/samsung/skyrocket" name="CarbonDev/android_device_samsung_skyrocket" remote="cr" revision="jb2" />
   <project path="device/samsung/smdk4412-common" name="CarbonDev/android_device_samsung_smdk4412-common" remote="cr" revision="jb2" />
   <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-10.1" />
