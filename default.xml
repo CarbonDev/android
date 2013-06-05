@@ -80,7 +80,7 @@
   <project path="device/htc/m7ul" name="CarbonDev/android_device_htc_m7ul" remote="cr" revision="cm-10.1" />
   <project path="device/htc/m7spr" name="CarbonDev/android_device_htc_m7spr" remote="cr" revision="cm-10.1" />
   <project path="device/htc/m7tmo" name="CarbonDev/android_device_htc_m7tmo" remote="cr" revision="cm-10.1" />
-  <project path="device/htc/shooteru" name="midnight88/android_device_htc_shooteru" remote="gh" revision="carbon" />  
+  <project path="device/htc/shooteru" name="CarbonDev/android_device_htc_shooteru" remote="cr" revision="carbon" />  
   <project path="device/htc/ville" name="CarbonDev/android_device_htc_ville" remote="cr" revision="jb2" />
   <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" remote="cr" revision="jb2" />
   <project path="device/motorola/maserati" name="CarbonDev/android_device_motorola_maserati" remote="cr" revision="jb2" />
@@ -391,7 +391,6 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="CarbonDev/android_packages_apps_Contacts" remote="cr" revision="jb2" />
-  <project path="packages/apps/DashClock" name="XYAOSP/packages_apps_DashClock" remote="gh" revision="jb4.2" />
   <project path="packages/apps/DeskClock" name="XYAOSP/packages_apps_DeskClock" remote="gh" revision="jellybean" />
   <project path="packages/apps/Email" name="CarbonDev/android_packages_apps_Email" remote="cr" revision="jb2" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" remote="cm" revision="cm-10.1" />
