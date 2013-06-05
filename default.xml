@@ -68,12 +68,13 @@
   <project path="device/htc/msm8960-common" name="CyanogenMod/android_device_htc_msm8960-common" remote="cm" revision="cm-10.1" />
   <project path="device/htc/msm8660-common" name="midnight88/android_device_htc_msm8660-common" remote="gh" revision="carbon" />
   <project path="device/htc/endeavoru" name="CarbonDev/android_device_htc_endeavoru" remote="cr" revision="jb2" />
-  <project path="device/htc/evita" name="android_device_sony_pepper" remote="nc" revision="jb2" />
+  <project path="device/htc/evita" name="CarbonDev/android_device_sony_pepper" remote="cr" revision="jb2" />
   <project path="device/htc/m7att" name="CarbonDev/android_device_htc_m7att" remote="cr" revision="cm-10.1" />
   <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="cm-10.1" />  
   <project path="device/htc/m7ul" name="CarbonDev/android_device_htc_m7ul" remote="cr" revision="cm-10.1" />
   <project path="device/htc/m7spr" name="CarbonDev/android_device_htc_m7spr" remote="cr" revision="cm-10.1" />
   <project path="device/htc/m7tmo" name="CarbonDev/android_device_htc_m7tmo" remote="cr" revision="cm-10.1" />
+  <project path="device/htc/s4-common" name="CarbonDev/android_device_htc_s4-common" remote="cr" revision="jb2" />
   <project path="device/htc/shooteru" name="midnight88/android_device_htc_shooteru" remote="gh" revision="carbon" />  
   <project path="device/htc/ville" name="CarbonDev/android_device_htc_ville" remote="cr" revision="jb2" />
   <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" remote="cr" revision="jb2" />
@@ -359,6 +360,7 @@
   <project path="kernel/htc/endeavoru" name="CyanogenMod/android_kernel_htc_endeavoru" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/m7" name="CyanogenMod/android_kernel_htc_m7" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8660" name="helicopter88/android_kernel_htc_msm8660" remote="bitbucket" revision="carbon" />
+  <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
   <project path="kernel/lge/mako" name="lge-kernel-mako" remote="nc" revision="jellybean" />
   <project path="kernel/motorola/omap4-common" name="CyanogenMod/android_kernel_motorola_omap4-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/motorola/omap4-kexec-common" name="CyanogenMod/android_kernel_motorola_omap4-kexec-common" remote="cm" revision="cm-10.1" />
@@ -470,7 +472,7 @@
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.1" />
   <project path="vendor/broadcom" name="CarbonDev/proprietary_vendor_broadcom" remote="cr" revision="jb2" />
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
-  <project path="vendor/htc" name="CarbonDev/proprietary_vendor_htc" remote="cr" revision="jb2" />
+  <project path="vendor/htc" name="android_vendor_sony_peppercorn" remote="nc" revision="jb2" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.1" />
   <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.1" />
   <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" remote="cr" revision="jb2" />
