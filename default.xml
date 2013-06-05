@@ -11,7 +11,7 @@
            fetch="git://github.com/" 
            review="review.cyanogenmod.org" 
            sync-c="true"
-           sync-j="4"/>
+           sync-j="16"/>
 
   <remote  name="cr"
            fetch="git://github.com/"
@@ -23,10 +23,16 @@
            fetch="git://github.com/TheMuppets/" />
 
   <remote  name="ub"
-           fetch="git://github.com/UnicornButter/" />
+           fetch="git://github.com/UnicornButter/" 
+           sync-c="true"
+           sync-j="16"
+           >
 
   <remote  name="cmdev"
-           fetch="git://github.com/loosethisskin/" />
+           fetch="git://github.com/loosethisskin/" 
+           sync-c="true"
+           sync-j="16"
+           />
 
   <remote  name="kejar31"
            fetch="git://github.com/kejar31/" />
@@ -43,7 +49,10 @@
            sync-j="4"/>
 
   <remote  name="bitbucket"
-           fetch="https://bitbucket.org/" />
+           fetch="https://bitbucket.org/" 
+           sync-c="true"
+           sync-j="16"
+           />
 
   <default revision="refs/tags/android-4.2.2_r1"
            remote="aosp"
