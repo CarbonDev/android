@@ -142,7 +142,6 @@
   <project path="device/samsung/t0lte" name="VanillaNexus/android_device_samsung_t0lte" remote="gh" revision="jb2" />
   <project path="device/samsung/t0lteatt" name="CarbonDev/android_device_samsung_t0lteatt" remote="cr" revision="jb2" />
   <project path="device/samsung/t0ltetmo" name="CarbonDev/android_device_samsung_t0ltetmo" remote="cr" revision="jb2" />
-  <project path="device/samsung/t0ltecdma" name="CarbonDev/android_device_samsung_t0ltecdma" remote="cr" revision="jb2" />
   <project path="device/samsung/tuna" name="CarbonDev/android_device_samsung_tuna" remote="cr" revision="jb2" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/armzipalign" name="CarbonDev/platform_external_armzipalign" remote="cr" revision="master" />
