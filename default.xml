@@ -75,11 +75,11 @@
   <project path="device/htc/msm8660-common" name="midnight88/android_device_htc_msm8660-common" remote="gh" revision="carbon" />
   <project path="device/htc/endeavoru" name="CarbonDev/android_device_htc_endeavoru" remote="cr" revision="jb2" />
   <project path="device/htc/evita" name="CarbonDev/android_device_sony_pepper" remote="cr" revision="jb2" />
-  <project path="device/htc/m7att" name="CarbonDev/android_device_htc_m7att" remote="cr" revision="cm-10.1" />
-  <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="cm-10.1" />  
-  <project path="device/htc/m7ul" name="CarbonDev/android_device_htc_m7ul" remote="cr" revision="cm-10.1" />
-  <project path="device/htc/m7spr" name="CarbonDev/android_device_htc_m7spr" remote="cr" revision="cm-10.1" />
-  <project path="device/htc/m7tmo" name="CarbonDev/android_device_htc_m7tmo" remote="cr" revision="cm-10.1" />
+  <project path="device/htc/m7-common" name="CarbonDev/android_device_htc_m7-common" remote="cr" revision="jb2" />
+  <project path="device/htc/m7att" name="CarbonDev/android_device_htc_m7att" remote="cr" revision="jb2" />
+  <project path="device/htc/m7ul" name="CarbonDev/android_device_htc_m7ul" remote="cr" revision="jb2" />
+  <project path="device/htc/m7spr" name="CarbonDev/android_device_htc_m7spr" remote="cr" revision="jb2" />
+  <project path="device/htc/m7tmo" name="CarbonDev/android_device_htc_m7tmo" remote="cr" revision="jb2" />
   <project path="device/htc/s4-common" name="CarbonDev/android_device_htc_s4-common" remote="cr" revision="jb2" />
   <project path="device/htc/shooteru" name="CarbonDev/android_device_htc_shooteru" remote="cr" revision="carbon" /> 
   <project path="device/htc/ville" name="CarbonDev/android_device_htc_ville" remote="cr" revision="jb2" />
