@@ -394,6 +394,7 @@
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Contacts" name="CarbonDev/android_packages_apps_Contacts" remote="cr" revision="jb2" />
   <project path="packages/apps/DeskClock" name="XYAOSP/packages_apps_DeskClock" remote="gh" revision="jellybean" />
+  <project path="packages/apps/DashClock" name="SlimRoms/packages_apps_DashClock" remote="gh" revision="jb4.2" />
   <project path="packages/apps/Email" name="CarbonDev/android_packages_apps_Email" remote="cr" revision="jb2" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="cm" revision="cm-10.1" />
