@@ -471,7 +471,7 @@
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.1" />
   <project path="vendor/broadcom" name="CarbonDev/proprietary_vendor_broadcom" remote="cr" revision="jb2" />
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
-  <project path="vendor/htc" name="TheMuppets/proprietary_vendor_htc" remote="tm" revision="cm-10.1" />
+  <project path="vendor/htc" name="proprietary_vendor_htc" remote="tm" revision="cm-10.1" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.1" />
   <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.1" />
   <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" remote="cr" revision="jb2" />
