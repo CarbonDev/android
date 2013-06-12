@@ -478,6 +478,7 @@
   <project path="vendor/lge" name="CarbonDev/android_vendor_lge" remote="cr" revision="jb2" />
   <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-10.1" />
   <project path="vendor/motorola/mb886" name="razrqcom-dev-team/android_vendor_motorola_mb886" remote="gh" revision="cm-10.1" />
+  <project path="vendor/motorola/msm8960-common" name="razrqcom-dev-team/android_vendor_motorola_msm8960-common" remote="gh" revision="cm-10.1" />
   <project path="vendor/motorola/xt897" name="razrqcom-dev-team/android_vendor_motorola_xt897" remote="gh" revision="cm-10.1" />
   <project path="vendor/motorola/xt907" name="razrqcom-dev-team/android_vendor_motorola_xt907" remote="gh" revision="cm-10.1" />
   <project path="vendor/motorola/xt925" name="razrqcom-dev-team/android_vendor_motorola_xt925" remote="gh" revision="cm-10.1" />
