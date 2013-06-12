@@ -334,8 +334,8 @@
   <project path="hardware/msm7k" name="CarbonDev/android_hardware_msm7k" remote="cr" revision="jb2" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="cm" revision="cm-10.1" />
-  <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="cm" revision="cm-10.1" />
-  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="cm" revision="cm-10.1" />
+  <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" remote="cm" revision="cm-10.1" />
+  <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" remote="cm" revision="cm-10.1" />
   <project path="hardware/qcom/display" name="CarbonDev/android_hardware_qcom_display" remote="cr" revision="jb2" />
   <project path="hardware/qcom/display-caf" name="CarbonDev/android_hardware_qcom_display-caf" remote="cr" revision="jb2" />
   <project name="arco/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" remote="gh" revision="cm-10.1_old" />
