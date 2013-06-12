@@ -44,7 +44,7 @@
   <remote  name="gh"
            fetch="git://github.com/"
            sync-c="true"
-           sync-j="4" />
+           sync-j="16" />
 
   <remote  name="bitbucket"
            fetch="https://bitbucket.org/" 
