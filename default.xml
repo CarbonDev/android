@@ -90,6 +90,7 @@
   <project path="device/motorola/xt907" name="CarbonDev/android_device_motorola_xt907" remote="cr" revision="jb2" />
   <project path="device/motorola/xt925" name="CarbonDev/android_device_motorola_xt925" remote="cr" revision="jb2" />
   <project path="device/motorola/xt926" name="CarbonDev/android_device_motorola_xt926" remote="cr" revision="jb2" />
+  <project path="device/oppo/find5" name="CarbonDev/android_device_oppo_find5" remote="cr" revision="jb2" />
   <project path="device/samsung/aries-common" name="scotthartbti/android_device_samsung_aries-common" remote="gh" revision="cm-10.1" />
   <project path="device/samsung/celox-common" name="CarbonDev/android_device_samsung_celox-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="CarbonDev/android_device_samsung_d2-common" remote="cr" revision="jb2" />
@@ -365,6 +366,7 @@
   <project path="kernel/motorola/omap4-common" name="CyanogenMod/android_kernel_motorola_omap4-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/motorola/omap4-kexec-common" name="CyanogenMod/android_kernel_motorola_omap4-kexec-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/motorola/msm8960-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960-common" remote="gh" revision="cm-10.1" />
+  <project path="kernel/oppo/find5" name="CyanogenMod/android_kernel_oppo_find5" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" remote="cm" revision="cm-10.1" />
   <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="beanstalk-stable" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-10.1" />
@@ -486,6 +488,7 @@
   <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926" remote="gh" revision="cm-10.1" />
   <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.1" />
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.1" />
+  <project path="vendor/oppo/find5" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.1" />
   <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" remote="cr" revision="jb2" />
   <project path="vendor/qcom" name="CarbonDev/proprietary_vendor_qcom" remote="cr" revision="jb2" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.1" />
