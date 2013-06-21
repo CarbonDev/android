@@ -74,6 +74,7 @@
   <project path="device/htc/m7spr" name="CarbonDev/android_device_htc_m7spr" remote="cr" revision="jb2" />
   <project path="device/htc/m7tmo" name="CarbonDev/android_device_htc_m7tmo" remote="cr" revision="jb2" />
   <project path="device/htc/s4-common" name="CyanogenMod/android_device_htc_s4-common" remote="cm" revision="cm-10.1" />
+  <project path="device/htc/shooter-common" name="CarbonDev/android_device_htc_shooter-common" remote="cr" revision="jb2" /> 
   <project path="device/htc/shooteru" name="CarbonDev/android_device_htc_shooteru" remote="cr" revision="jb2" /> 
   <project path="device/htc/ville" name="CarbonDev/android_device_htc_ville" remote="cr" revision="jb2" />
   <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" remote="cr" revision="jb2" />
