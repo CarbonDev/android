@@ -124,7 +124,7 @@
   <project path="device/samsung/maguro" name="CarbonDev/android_device_samsung_maguro" remote="cr" revision="jb2" />
   <project path="device/samsung/manta" name="CarbonDev/android_device_samsung_manta" remote="cr" revision="jb2" />
   <project path="device/samsung/msm8660-common" name="CarbonDev/android_device_samsung_msm8660-common" remote="cr" revision="jb2" />
-  <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" remote="cm" revision="cm-10.1" />
+  <project path="device/samsung/msm8960-common" name="CarbonDev/android_device_samsung_msm8960-common" remote="cr" revision="cm-10.1" />
   <project path="device/samsung/n7000" name="CarbonDev/android_device_samsung_n7000" remote="cr" revision="jb2" />
   <project path="device/samsung/n7100" name="CarbonDev/android_device_samsung_n7100" remote="cr" revision="jb2" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-10.1" />
