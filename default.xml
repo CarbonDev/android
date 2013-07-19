@@ -210,8 +210,10 @@
   <project path="external/jsr305" name="platform/external/jsr305" />
   <project path="external/junit" name="platform/external/junit" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" />
-  <project path="external/koush/Superuser" name="Superuser" remote="koush" revision="master" />
-  <project path="external/koush/Widgets" name="Widgets" remote="koush" revision="master" />
+  <project path="external/koush/ion" name="CyanogenMod/ion" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" remote="cm" revision="cm-10.1" />
+  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" remote="cm" revision="cm-10.1" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" />
   <project path="external/libffi" name="platform/external/libffi" />
   <project path="external/libgsm" name="platform/external/libgsm" />
