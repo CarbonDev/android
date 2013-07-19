@@ -184,7 +184,7 @@
   <project path="external/flac" name="platform/external/flac" />
   <project path="external/freetype" name="android_external_freetype" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
-  <project path="external/fuse" name="CyanogenMod/android_external_fuse" remote="cm" revision="cm-10.1" />
+  <project path="external/fuse" name="android_external_fuse" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" />
   <project path="external/genext2fs" name="platform/external/genext2fs" />
