@@ -367,7 +367,7 @@
   <project path="kernel/htc/m7" name="CyanogenMod/android_kernel_htc_m7" remote="cm" revision="cm-10.1" />
   <project path="kernel/htc/msm8660" name="helicopter88/android_kernel_htc_msm8660" remote="bitbucket" revision="carbon" />
   <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-10.1" />
-  <project path="kernel/lge/mako" name="CyanogenMod/lge-kernel-mako" remote="cm" revision="cm-10.1" />
+  <project path="kernel/lge/mako" name="CarbonDev/lge-kernel-mako" remote="cr" revision="jb2" />
   <project path="kernel/motorola/omap4-common" name="CyanogenMod/android_kernel_motorola_omap4-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/motorola/omap4-kexec-common" name="CyanogenMod/android_kernel_motorola_omap4-kexec-common" remote="cm" revision="cm-10.1" />
   <project path="kernel/motorola/msm8960-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960-common" remote="gh" revision="cm-10.1" />
