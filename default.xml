@@ -191,7 +191,7 @@
   <project path="external/giflib" name="platform/external/giflib" />
   <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" />
   <project path="external/grub" name="platform/external/grub" />
-  <project path="external/gson" name="CyanogenMod/android_external_gson" remote="cm" revision="cm-10.1" />
+  <project path="external/gson" name="CarbonDev/android_external_gson" remote="cr" revision="cm-10.1" />
   <project path="external/gtest" name="platform/external/gtest" />
   <project path="external/guava" name="platform/external/guava" />
   <project path="external/hamcrest" name="platform/external/hamcrest" />
@@ -385,6 +385,7 @@
   <project path="libcore" name="CarbonDev/android_libcore" remote="cr" revision="jb2" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
+  <project path="packages/apps/Babel" name="CyanogenMod/android_packages_apps_Babel" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-10.1" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="cm" revision="cm-10.1" />
