@@ -89,7 +89,7 @@
   <project path="device/motorola/xt925" name="CarbonDev/android_device_motorola_xt925" remote="cr" revision="jb2" />
   <project path="device/motorola/xt926" name="CarbonDev/android_device_motorola_xt926" remote="cr" revision="jb2" />
   <project path="device/oppo/find5" name="CarbonDev/android_device_oppo_find5" remote="cr" revision="jb2" />
-  <project path="device/samsung/aries-common" name="scotthartbti/android_device_samsung_aries-common" remote="gh" revision="cm-10.1" />
+  <project path="device/samsung/aries-common" name="CarbonDev/android_device_samsung_aries-common" remote="cr" revision="cm-10.1" />
   <project path="device/samsung/celox-common" name="CarbonDev/android_device_samsung_celox-common" remote="cr" revision="jb2" />
   <project path="device/samsung/d2-common" name="CarbonDev/android_device_samsung_d2-common" remote="cr" revision="jb2" />
   <project path="device/samsung/crespo" name="CarbonDev/android_device_samsung_crespo" remote="cr" revision="jb2" />
