@@ -475,7 +475,7 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="cm-10.1" />
   <project path="system/security" name="system_security" remote="ub" revision="jb-mr1" />
-  <project path="system/vold" name="CarbonDev/android_system_vold" remote="cr" revision="jb2" />
+  <project path="system/vold" name="CyanogenMod/android_system_vold" remote="cm" revision="cm-10.1" />
   <project path="tools/build" name="platform/tools/build" groups="toolsbuild" />
   <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.1" />
   <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.1" />
