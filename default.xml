@@ -12,7 +12,7 @@
            sync-j="4" />
 
   <remote  name="cr"
-           fetch="git@github.com:CarbonDev/"
+           fetch="https://github.com/CarbonDev/"
            sync-j="4" />
 
   <remote  name="tm"
