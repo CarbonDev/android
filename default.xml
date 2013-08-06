@@ -12,30 +12,14 @@
            sync-j="4" />
 
   <remote  name="cr"
-           fetch="https://github.com/CarbonDev/"
-           review="androidhosting.org:8080" 
+           fetch="git@github.com:CarbonDev/"
            sync-j="4" />
 
   <remote  name="tm"
            fetch="git://github.com/TheMuppets/" />
 
-  <remote  name="ub"
-           fetch="git://github.com/UnicornButter/" 
-           sync-c="true"
-           sync-j="4" />
-
-  <remote  name="cmdev"
-           fetch="git://github.com/loosethisskin/" 
-           sync-j="4" />
-
   <remote  name="kejar31"
            fetch="git://github.com/kejar31/" />
-           
-  <remote  name="koush"
-           fetch="git://github.com/koush/" />
-
-  <remote  name="nc"
-           fetch="git://github.com/nocoast/" />
            
   <remote  name="gh"
            fetch="https://github.com/"
@@ -87,8 +71,8 @@
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/i9300" name="android_device_samsung_i9300" remote="cr" revision="jb3" />
   <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" remote="cr" revision="jb3" />
-  <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="cr" revision="cm-10.2" />
-  <project path="device/samsung/jfltevzw" name="android_device_samsung_jfltevzw" remote="cr" revision="cm-10.2" />
+  <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="cr" revision="jb3" />
+  <project path="device/samsung/jfltevzw" name="android_device_samsung_jfltevzw" remote="cr" revision="jb3" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" groups="device,tuna" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" remote="cm" revision="cm-10.2" />
@@ -409,6 +393,7 @@
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
+  <project path="packages/wallpapers/SunBeam" name="android_packages_wallpapers_SunBeam" remote="kejar31" revision="cm-10.1" />
   <project path="pdk" name="platform/pdk" groups="pdk" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="pdk,darwin" />
   <project path="prebuilts/clang/darwin-x86/3.2" name="platform/prebuilts/clang/darwin-x86/3.2" groups="pdk,darwin" />
