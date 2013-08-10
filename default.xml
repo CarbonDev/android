@@ -48,7 +48,6 @@
   <project path="development" name="android_development" remote="cr" revision="jb3" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" />
   <project path="device/asus/flo" name="android_device_asus_flo" remote="cr" revision="jb3" />
-  <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" />
   <project path="device/asus/grouper" name="android_device_asus_grouper" remote="cr" revision="jb3" />
   <project path="device/asus/tilapia" name="device/asus/tilapia" groups="device,grouper" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.2" />
