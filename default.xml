@@ -67,6 +67,13 @@
   <project path="device/htc/m7ul" name="android_device_htc_m7ul" remote="cr" revision="jb3" />
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cr" revision="jb3" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb3" />
+  <project path="device/motorola/mb886" name="android_device_motorola_mb886" remote="cr" revision="jb3" />
+  <project path="device/motorola/msm8960-common" name="CyanogenMod/android_device_motorola_msm8960-common" remote="cm" revision="cm-10.2" />
+  <project path="device/motorola/xt897" name="android_device_motorola_xt897" remote="cr" revision="jb3" />
+  <project path="device/motorola/xt897c" name="android_device_motorola_xt897c" remote="cr" revision="jb3" />
+  <project path="device/motorola/xt907" name="android_device_motorola_xt907" remote="cr" revision="jb3" />
+  <project path="device/motorola/xt925" name="android_device_motorola_xt925" remote="cr" revision="jb3" />
+  <project path="device/motorola/xt926" name="android_device_motorola_xt926" remote="cr" revision="jb3" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb3" />
@@ -334,6 +341,7 @@
   <project path="kernel/asus/flo" name="android_kernel_asus_flo" remote="cr" revision="jb3" />
   <project path="kernel/htc/m7" name="CyanogenMod/android_kernel_htc_m7" remote="cm" revision="cm-10.2" />
   <project path="kernel/lge/mako" name="CyanogenMod/lge-kernel-mako" remote="cm" revision="cm-10.2" />
+  <project path="kernel/motorola/msm8960-common" name="CyanogenMod/android_kernel_motorola_msm8960-common" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/jf" name="CyanogenMod/android_kernel_samsung_jf" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" remote="cm" revision="cm-10.2" />
@@ -468,6 +476,7 @@
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.2" />
   <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="cr" revision="jb3" />
   <project path="vendor/lge" name="proprietary_vendor_lge" remote="cr" revision="jb3" />
+  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-10.2" />
   <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="cr" revision="jb3" />
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.2" />
   <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.1" />
