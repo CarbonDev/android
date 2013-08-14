@@ -67,7 +67,7 @@
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb3" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="cm" revision="cm-10.2" />
-  <project path="device/samsung/d2-common" name="CyanogenMod/android_device_samsung_d2-common" remote="cm" revision="cm-10.2" />
+  <project path="device/samsung/d2-common" name="android_device_samsung_d2-common" remote="cr" revision="jb3" />
   <project path="device/samsung/d2att" name="android_device_samsung_d2att" remote="cr" revision="jb3" />
   <project path="device/samsung/d2cri" name="android_device_samsung_d2cri" remote="cr" revision="jb3" />
   <project path="device/samsung/d2mtr" name="android_device_samsung_d2mtr" remote="cr" revision="jb3" />
