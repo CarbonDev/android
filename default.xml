@@ -85,7 +85,10 @@
   <project path="device/samsung/d2tmo" name="android_device_samsung_d2tmo" remote="cr" revision="jb3" />
   <project path="device/samsung/d2usc" name="android_device_samsung_d2usc" remote="cr" revision="jb3" />
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cr" revision="jb3" />
+  <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="cr" revision="jb3" />
   <project path="device/samsung/i605" name="android_device_samsung_i605" remote="cr" revision="jb3" />
+  <project path="device/samsung/i777" name="android_device_samsung_i777" remote="cr" revision="jb3" />
+  <project path="device/samsung/i9100" name="android_device_samsung_i9100" remote="cr" revision="jb3" />
   <project path="device/samsung/i9300" name="android_device_samsung_i9300" remote="cr" revision="jb3" />
   <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" remote="cr" revision="jb3" />
   <project path="device/samsung/jflteatt" name="android_device_samsung_jflteatt" remote="cr" revision="jb3" />  
@@ -99,6 +102,7 @@
   <project path="device/samsung/maguro" name="android_device_samsung_maguro" remote="cr" revision="jb3" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
   <project path="device/samsung/msm8960-common" name="CyanogenMod/android_device_samsung_msm8960-common" remote="cm" revision="cm-10.2" />
+  <project path="device/samsung/n7000" name="android_device_samsung_n7000" remote="cr" revision="jb3" />
   <project path="device/samsung/n7100" name="android_device_samsung_n7100" remote="cr" revision="jb3" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/smdk4412-common" name="CyanogenMod/android_device_samsung_smdk4412-common" remote="cm" revision="cm-10.2" />
