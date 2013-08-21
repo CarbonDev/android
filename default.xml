@@ -485,6 +485,7 @@
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
+  <project path="vendor/akm" name="proprietary_vendor_akm" remote="tm" revision="cm-10.2" />
   <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.1" />
   <project path="vendor/asus" name="proprietary_vendor_asus" remote="cr" revision="jb3" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.1" />
