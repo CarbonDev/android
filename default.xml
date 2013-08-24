@@ -501,7 +501,7 @@
   <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="cr" revision="jb3" />
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.2" />
   <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.1" />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="tm" revision="cm-10.2" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="cr" revision="jb3" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="cr" revision="jb3" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="gh" revision="jb-mr2" />
