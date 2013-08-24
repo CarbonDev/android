@@ -162,7 +162,7 @@
   <project path="external/flac" name="platform/external/flac" groups="pdk" />
   <project path="external/Focal" name="CyanogenMod/android_external_Focal" remote="cm" revision="cm-10.2" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" remote="cm" revision="cm-10.2" groups="pdk" />
-  <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
+  <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" remote="cm" revision="cm-10.2" />
   <project path="external/fuse" name="CyanogenMod/android_external_fuse" remote="cm" revision="cm-10.2" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" groups="pdk" />
