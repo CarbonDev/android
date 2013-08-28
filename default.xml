@@ -94,6 +94,7 @@
   <project path="device/samsung/i777" name="android_device_samsung_i777" remote="cr" revision="jb3" />
   <project path="device/samsung/i9100" name="android_device_samsung_i9100" remote="cr" revision="jb3" />
   <project path="device/samsung/i9300" name="android_device_samsung_i9300" remote="cr" revision="jb3" />
+  <project path="device/samsung/i9305" name="android_device_samsung_i9305" remote="cr" revision="jb3" />
   <project path="device/samsung/infuse4g" name="android_device_samsung_infuse4g" remote="cr" revision="jb3" />
   <project path="device/samsung/jflteatt" name="android_device_samsung_jflteatt" remote="cr" revision="jb3" />  
   <project path="device/samsung/jf-common" name="android_device_samsung_jf-common" remote="cr" revision="jb3" />
