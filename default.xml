@@ -494,22 +494,22 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/akm" name="proprietary_vendor_akm" remote="tm" revision="cm-10.2" />
-  <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.1" />
-  <project path="vendor/asus" name="proprietary_vendor_asus" remote="cr" revision="jb3" />
-  <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.1" />
-  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="cr" revision="jb3" />
+  <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.2" />
+  <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.2" />
+  <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.2" />
+  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-10.2" />
   <project path="vendor/carbon" name="android_vendor_carbon" remote="cr" revision="jb3" />
-  <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.1" />
+  <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.2" />
   <project path="vendor/htc" name="proprietary_vendor_htc" remote="cr" revision="jb3" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.2" />
-  <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="cr" revision="jb3" />
+  <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.2" />
   <project path="vendor/lge" name="proprietary_vendor_lge" remote="cr" revision="jb3" />
   <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-10.2" />
-  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="cr" revision="jb3" />
+  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.2" />
   <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.2" />
-  <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.1" />
+  <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.2" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="cr" revision="jb3" />
-  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="cr" revision="jb3" />
+  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.2" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="gh" revision="jb-mr2" />
