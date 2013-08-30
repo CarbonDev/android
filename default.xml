@@ -498,7 +498,7 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="vendor/akm" name="proprietary_vendor_akm" remote="tm" revision="cm-10.2" />
   <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.2" />
-  <project path="vendor/asus" name="proprietary_vendor_asus" remote="tm" revision="cm-10.2" />
+  <project path="vendor/asus" name="proprietary_vendor_asus" remote="cr" revision="jb3" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.2" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-10.2" />
   <project path="vendor/carbon" name="android_vendor_carbon" remote="cr" revision="jb3" />
