@@ -88,7 +88,7 @@
   <project path="device/samsung/d2tmo" name="android_device_samsung_d2tmo" remote="cr" revision="jb3" />
   <project path="device/samsung/d2usc" name="android_device_samsung_d2usc" remote="cr" revision="jb3" />
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cr" revision="jb3" />
-  <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="cr" revision="jb3" />
+  <project path="device/samsung/galaxys2-common" name="CyanogenMod/android_device_samsung_galaxys2-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/hercules" name="android_device_samsung_hercules" remote="cr" revision="jb3" />
   <project path="device/samsung/i605" name="android_device_samsung_i605" remote="cr" revision="jb3" />
   <project path="device/samsung/i777" name="android_device_samsung_i777" remote="cr" revision="jb3" />
