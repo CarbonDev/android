@@ -111,6 +111,9 @@
   <project path="device/samsung/n7000" name="android_device_samsung_n7000" remote="cr" revision="jb3" />
   <project path="device/samsung/n7100" name="android_device_samsung_n7100" remote="cr" revision="jb3" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" remote="cm" revision="cm-10.2" />
+  <project path="device/samsung/quincyatt" name="android_device_samsung_quincyatt" remote="cr" revision="jb3" />
+  <project path="device/samsung/quincytmo" name="android_device_samsung_quincytmo" remote="cr" revision="jb3" />
+  <project path="device/samsung/quincy-common" name="CyanogenMod/android_device_samsung_quincy-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/skyrocket" name="android_device_samsung_skyrocket" remote="cr" revision="jb3" />
   <project path="device/samsung/smdk4412-common" name="CyanogenMod/android_device_samsung_smdk4412-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/smdk4412-qcom-common" name="CyanogenMod/android_device_samsung_smdk4412-qcom-common" remote="cm" revision="cm-10.2" />
