@@ -77,6 +77,7 @@
   <project path="device/motorola/xt907" name="android_device_motorola_xt907" remote="cr" revision="jb3" />
   <project path="device/motorola/xt925" name="android_device_motorola_xt925" remote="cr" revision="jb3" />
   <project path="device/motorola/xt926" name="android_device_motorola_xt926" remote="cr" revision="jb3" />
+  <project path="device/oppo/find5" name="android_device_oppo_find5" remote="cr" revision="jb3" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/aries-common" name="CyanogenMod/android_device_samsung_aries-common" remote="cm" revision="cm-10.2" />
   <project path="device/samsung/celox-common" name="CyanogenMod/android_device_samsung_celox-common" remote="cm" revision="cm-10.2" />
@@ -370,6 +371,7 @@
   <project path="kernel/htc/m7" name="android_kernel_htc_m7" remote="cr" revision="jb3-tS" />
   <project path="kernel/lge/mako" name="CyanogenMod/lge-kernel-mako" remote="cm" revision="cm-10.2" />
   <project path="kernel/motorola/msm8960-common" name="CyanogenMod/android_kernel_motorola_msm8960-common" remote="cm" revision="cm-10.2" />
+  <project path="kernel/oppo/find5" name="CyanogenMod/android_kernel_oppo_find5" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/d2" name="CyanogenMod/android_kernel_samsung_d2" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/dempsey" name="scotthartbti/cm_samsung_kernel_dempsey" remote="gh" revision="BS43" />
