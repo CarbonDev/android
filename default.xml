@@ -69,6 +69,7 @@
   <project path="device/htc/m7tmo" name="android_device_htc_m7tmo" remote="cr" revision="jb3" />
   <project path="device/htc/m7ul" name="android_device_htc_m7ul" remote="cr" revision="jb3" />
   <project path="device/htc/msm8960-common" name="android_device_htc_msm8960-common" remote="cr" revision="jb3" />
+  <project path="device/htc/tegra3-common" name="CyanogenMod/android_device_htc_tegra3-common" remote="cm" revision="cm-10.2" />
   <project path="device/lge/mako" name="android_device_lge_mako" remote="cr" revision="jb3" />
   <project path="device/motorola/mb886" name="android_device_motorola_mb886" remote="cr" revision="jb3" />
   <project path="device/motorola/msm8960-common" name="CyanogenMod/android_device_motorola_msm8960-common" remote="cm" revision="cm-10.2" />
