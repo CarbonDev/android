@@ -229,6 +229,7 @@
   <project path="external/libselinux" name="CyanogenMod/android_external_libselinux" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/libsepol" name="CyanogenMod/android_external_libsepol" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/libusb" name="platform/external/libusb" />
+  <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" remote="cm" revision="cm-10.2" />
   <project path="external/libusb_aah" name="platform/external/libusb_aah" groups="libusb_aah" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
@@ -284,6 +285,7 @@
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" />
   <project path="external/speex" name="platform/external/speex" groups="pdk" />
+  <project path="external/spongycastle" name="CyanogenMod/android_external_spongycastle" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/srtp" name="platform/external/srtp" />
