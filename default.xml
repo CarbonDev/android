@@ -351,7 +351,7 @@
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" remote="cm" revision="cm-10.2" groups="qcom" />
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" remote="cm" revision="cm-10.2" />
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="cr" revision="jb3" />
+  <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/keymaster" name="CyanogenMod/android_hardware_qcom_keymaster" remote="cm" revision="cm-10.2" groups="qcom" />
@@ -373,7 +373,6 @@
   <project path="kernel/htc/endeavoru" name="CyanogenMod/android_kernel_htc_endeavoru" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/msm8960" name="CyanogenMod/android_kernel_htc_msm8960" remote="cm" revision="cm-10.2" />
   <project path="kernel/htc/m7" name="android_kernel_htc_m7" remote="cr" revision="jb3-tS" />
-  <project path="kernel/lge/mako" name="ParanoidAndroid/lge-kernel-mako" remote="gh" revision="jb43" />
   <project path="kernel/motorola/msm8960-common" name="CyanogenMod/android_kernel_motorola_msm8960-common" remote="cm" revision="cm-10.2" />
   <project path="kernel/oppo/find5" name="CyanogenMod/android_kernel_oppo_find5" remote="cm" revision="cm-10.2" />
   <project path="kernel/samsung/crespo" name="CyanogenMod/android_kernel_samsung_crespo" remote="cm" revision="cm-10.2" />
