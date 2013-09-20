@@ -26,7 +26,7 @@
            fetch="https://bitbucket.org/" 
            sync-j="4" />
 
-  <default revision="refs/tags/android-4.3_r3.1"
+  <default revision="refs/tags/android-4.3_r3"
            remote="aosp"
            sync-j="4" />
 
