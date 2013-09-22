@@ -93,6 +93,7 @@
   <project path="device/samsung/d2usc" name="android_device_samsung_d2usc" remote="cr" revision="jb3" />
   <project path="device/samsung/d2vzw" name="android_device_samsung_d2vzw" remote="cr" revision="jb3" />
   <project path="device/samsung/d710" name="android_device_samsung_d710" remote="cr" revision="jb3" />
+  <project path="device/samsung/exhilarate" name="android_device_samsung_exhilarate" remote="cr" revision="jb3" />
   <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="cr" revision="jb3" />
   <project path="device/samsung/hercules" name="android_device_samsung_hercules" remote="cr" revision="jb3" />
   <project path="device/samsung/i605" name="android_device_samsung_i605" remote="cr" revision="jb3" />
@@ -125,6 +126,7 @@
   <project path="device/samsung/t0lte" name="android_device_samsung_t0lte" remote="cr" revision="jb3" />
   <project path="device/samsung/t0lteatt" name="android_device_samsung_t0lteatt" remote="cr" revision="jb3" />
   <project path="device/samsung/t0ltetmo" name="android_device_samsung_t0ltetmo" remote="cr" revision="jb3" />
+  <project path="device/samsung/t769" name="android_device_samsung_t769" remote="cr" revision="jb3" />
   <project path="device/samsung/toro" name="android_device_samsung_toro" remote="cr" revision="jb3" />
   <project path="device/samsung/toroplus" name="android_device_samsung_toroplus" remote="cr" revision="jb3" />
   <project path="device/samsung/tuna" name="android_device_samsung_tuna" remote="cr" revision="jb3" />
