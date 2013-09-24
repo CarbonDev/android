@@ -13,7 +13,7 @@
 
   <remote  name="cr"
            fetch="https://github.com/CarbonDev/"
-           review="https://review.carbon-rom.com/"
+           review="review.carbon-rom.com"
            sync-j="4" />
 
   <remote  name="tm"
