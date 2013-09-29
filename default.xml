@@ -27,8 +27,8 @@
            fetch="https://bitbucket.org/" 
            sync-j="4" />
 
-  <default revision="refs/tags/jb3"
-           remote="cr"
+  <default revision="refs/tags/android-4.3_r3.1"
+           remote="aosp"
            sync-j="4" />
 
   <project path="build" name="CarbonDev/android_build" remote="cr" revision="jb3" groups="pdk" >
