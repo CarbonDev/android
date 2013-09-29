@@ -73,8 +73,8 @@ Git TrickMarks
     Then u push the goodies ;)
 
     Setting up for repo upload:
-    git config --global review.carbon-rom.com.username <Your username registered at CarbonDev gerrit>
-    git config --global review.carbon-rom.com.email <Your email registered at CarbonDev gerrit>
+    git config --global review.review.carbon-rom.com.username <Your username registered at CarbonDev gerrit>
+    git config --global review.review.carbon-rom.com.email <Your email registered at CarbonDev gerrit>
 
 
 
