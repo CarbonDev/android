@@ -50,6 +50,7 @@
   <project path="device/asus/deb" name="CarbonDev/android_device_asus_deb" />
   <project path="device/asus/flo" name="CarbonDev/android_device_asus_flo" />
   <project path="device/asus/grouper" name="CarbonDev/android_device_asus_grouper" />
+  <project path="device/asus/tilapia" name="CarbonDev/android_device_asus_tilapia" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-10.2" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
