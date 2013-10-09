@@ -158,6 +158,7 @@
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="external/crda" name="CyanogenMod/android_external_crda" remote="cm" revision="cm-10.2" />
   <project path="external/dexmaker" name="platform/external/dexmaker" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
@@ -499,6 +500,7 @@
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="system/qcom" name="CyanogenMod/android_system_qcom" remote="cm" revision="cm-10.2" groups="qcom" />
   <project path="system/security" name="platform/system/security" groups="pdk" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3_r3.1" />
