@@ -172,6 +172,7 @@
   <project path="external/exfat" name="CyanogenMod/android_external_exfat" remote="cm" revision="cm-10.2" />
   <project path="external/expat" name="platform/external/expat" groups="pdk" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
+  <project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" remote="cm" revision="cm-10.2" />
   <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="external/flac" name="platform/external/flac" groups="pdk" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" remote="cm" revision="cm-10.2" groups="pdk" />
@@ -335,6 +336,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="frameworks/opt/telephony-msim" name="CyanogenMod/android_frameworks_opt_telephony-msim" remote="cm" revision="cm-10.2" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="cm" revision="cm-10.2" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" remote="cm" revision="cm-10.2" />
