@@ -375,7 +375,7 @@
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Phone" name="platform/packages/apps/Phone" emote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="packages/apps/Phone" name="platform/packages/apps/Phone" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/ROMStats" name="CarbonDev/android_packages_apps_ROMStats" />
