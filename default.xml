@@ -62,6 +62,7 @@
   <project path="device/lge/hammerhead" name="device/lge/hammerhead" groups="device,hammerhead" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" />
+  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/samsung/maguro" name="CarbonDev/android_device_samsung_maguro" />
   <project path="device/samsung/manta" name="CarbonDev/android_device_samsung_manta" />
