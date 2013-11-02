@@ -68,8 +68,6 @@
   <project path="device/samsung/toro" name="CarbonDev/android_device_samsung_toro" />
   <project path="device/samsung/toroplus" name="CarbonDev/android_device_samsung_toroplus" />
   <project path="device/samsung/tuna" name="CarbonDev/android_device_samsung_tuna" />
-  <project path="device/samsung_slsi/arndale" name="device/samsung_slsi/arndale" groups="device" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="device/ti/panda" name="device/ti/panda" groups="device" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="refs/tags/android-4.4_r1" />
