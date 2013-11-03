@@ -33,12 +33,12 @@
   <project path="android" name="CarbonDev/android" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="art" name="platform/art" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="bionic" name="platform/bionic" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="bionic" name="CarbonDev/android_bionic" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="cts" name="platform/cts" groups="cts" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="dalvik" name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="dalvik" name="CarbonDev/android_dalvik" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -248,7 +248,7 @@
   <project path="external/sepolicy" name="platform/external/sepolicy" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="external/sfntly" name="platform/external/sfntly" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/skia" name="platform/external/skia" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="external/skia" name="CarbonDev/android_external_skia" />
   <project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/smali" name="platform/external/smali" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
