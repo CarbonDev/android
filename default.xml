@@ -319,7 +319,7 @@
   <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="hardware/qcom/display" name="platform/hardware/qcom/display" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="hardware/qcom/display" name="CarbonDev/hardware_qcom_display" />
   <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-10.2" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom" />
