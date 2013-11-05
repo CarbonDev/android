@@ -462,6 +462,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="system/bluetooth" name="platform/system/bluetooth" remote="aosp" revision="refs/tags/android-4.3.1_r1" groups="pdk" />
   <project path="system/core" name="CarbonDev/android_system_core" groups="pdk" />
   <project path="system/extras" name="CarbonDev/android_system_extras" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
