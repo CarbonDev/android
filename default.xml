@@ -330,7 +330,7 @@
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom_wlan" />
   <project path="hardware/ril" name="CarbonDev/android_hardware_ril" groups="pdk" />
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="cm" revision="cm-11.0" />
+  <project path="hardware/samsung" name="CarbonDev/android_hardware_samsung" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" remote="aosp" revision="refs/tags/android-4.4_r1" groups="exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -467,7 +467,7 @@
   <project path="system/media" name="platform/system/media" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="system/vold" name="platform/system/vold" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
+  <project path="system/vold" name="android_system_vold" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
