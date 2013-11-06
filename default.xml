@@ -118,7 +118,7 @@
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/clang" name="platform/external/clang" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
-  <project path="external/crda" name="CyanogenMod/android_external_crda" remote="cm" revision="cm-10.2" />
+  <project path="external/crda" name="CyanogenMod/android_external_crda" remote="cm" revision="cm-11.0" />
   <project path="external/dexmaker" name="platform/external/dexmaker" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/dnsmasq" name="platform/external/dnsmasq" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -140,15 +140,15 @@
   <project path="external/flac" name="platform/external/flac" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/freetype" name="platform/external/freetype" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/fuse" name="CyanogenMod/android_external_fuse" remote="cm" revision="cm-10.2" />
+  <project path="external/fuse" name="CyanogenMod/android_external_fuse" remote="cm" revision="cm-11.0" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/genext2fs" name="platform/external/genext2fs" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/giflib" name="platform/external/giflib" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/google" name="CyanogenMod/android_external_google" remote="cm" revision="cm-10.2" />
+  <project path="external/google" name="CyanogenMod/android_external_google" remote="cm" revision="cm-11.0" />
   <project path="external/google-diff-match-patch" name="platform/external/google-diff-match-patch" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/grub" name="platform/external/grub" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/gson" name="CyanogenMod/android_external_gson" remote="cm" revision="cm-10.2" />
+  <project path="external/gson" name="CyanogenMod/android_external_gson" remote="cm" revision="cm-11.0" />
   <project path="external/gtest" name="platform/external/gtest" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/guava" name="platform/external/guava" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/hamcrest" name="platform/external/hamcrest" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -172,30 +172,30 @@
   <project path="external/jsr305" name="platform/external/jsr305" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/junit" name="platform/external/junit" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" remote="cm" revision="cm-10.2" />
-  <project path="external/koush/ion" name="CyanogenMod/ion" remote="cm" revision="cm-10.2" />
-  <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" remote="cm" revision="cm-10.2" />
-  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" remote="cm" revision="cm-10.2" />
-  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" remote="cm" revision="cm-10.2" />
+  <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" remote="cm" revision="cm-11.0" />
+  <project path="external/koush/ion" name="CyanogenMod/ion" remote="cm" revision="cm-11.0" />
+  <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" remote="cm" revision="cm-11.0" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" remote="cm" revision="cm-11.0" />
+  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" remote="cm" revision="cm-11.0" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libmtp" name="platform/external/libmtp" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="cm" revision="cm-10.2" />
+  <project path="external/libncurses" name="CyanogenMod/android_external_libncurses" remote="cm" revision="cm-11.0" />
   <project path="external/libnfc-nci" name="platform/external/libnfc-nci" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libogg" name="platform/external/libogg" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" remote="cm" revision="cm-10.2" />
+  <project path="external/libphonenumbergoogle" name="CyanogenMod/android_external_libphonenumbergoogle" remote="cm" revision="cm-11.0" />
   <project path="external/libpng" name="platform/external/libpng" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="external/libppp" name="platform/external/libppp" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libselinux" name="platform/external/libselinux" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="external/libsepol" name="platform/external/libsepol" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="external/libusb" name="platform/external/libusb" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" remote="cm" revision="cm-10.2" />
+  <project path="external/libusbx" name="CyanogenMod/android_external_libusbx" remote="cm" revision="cm-11.0" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libvorbis" name="platform/external/libvorbis" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -215,14 +215,14 @@
   <project path="external/mockwebserver" name="platform/external/mockwebserver" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/mp4parser" name="platform/external/mp4parser" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/mtpd" name="platform/external/mtpd" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/nano" name="CyanogenMod/android_external_nano" remote="cm" revision="cm-10.2" />
+  <project path="external/nano" name="CyanogenMod/android_external_nano" remote="cm" revision="cm-11.0" />
   <project path="external/naver-fonts" name="platform/external/naver-fonts" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/netcat" name="platform/external/netcat" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/netperf" name="platform/external/netperf" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/neven" name="platform/external/neven" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/nist-sip" name="platform/external/nist-sip" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/ntfs-3g" name="CyanogenMod/android_external_ntfs-3g" remote="cm" revision="cm-10.2" />
+  <project path="external/ntfs-3g" name="CyanogenMod/android_external_ntfs-3g" remote="cm" revision="cm-11.0" />
   <project path="external/noto-fonts" name="platform/external/noto-fonts" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/objenesis" name="platform/external/objenesis" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -233,7 +233,7 @@
   <project path="external/openssh" name="platform/external/openssh" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/openssl" name="platform/external/openssl" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/pigz" name="CyanogenMod/android_external_pigz" remote="cm" revision="cm-10.2" />
+  <project path="external/pigz" name="CyanogenMod/android_external_pigz" remote="cm" revision="cm-11.0" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/ppp" name="platform/external/ppp" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/proguard" name="platform/external/proguard" groups="pdk-java" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -253,7 +253,7 @@
   <project path="external/smali" name="platform/external/smali" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/speex" name="platform/external/speex" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/spongycastle" name="CyanogenMod/android_external_spongycastle" remote="cm" revision="cm-10.2" groups="pdk" />
+  <project path="external/spongycastle" name="CyanogenMod/android_external_spongycastle" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/sqlite" name="platform/external/sqlite" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="external/srec" name="platform/external/srec" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -274,7 +274,6 @@
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti" remote="cm" revision="cm-10.2"  />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/yaffs2" name="platform/external/yaffs2" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
@@ -316,36 +315,36 @@
   <project path="hardware/libhardware" name="CarbonDev/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" remote="aosp" revision="refs/tags/android-4.4_r1" groups="pdk" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom" />
-  <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="cm" revision="cm-10.2" />
+  <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/qcom/display" name="CarbonDev/hardware_qcom_display" />
-  <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-10.2" />
-  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-10.2" />
+  <project path="hardware/qcom/display-caf" name="CyanogenMod/android_hardware_qcom_display-caf" remote="cm" revision="cm-11.0" />
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" remote="cm" revision="cm-10.2" />
+  <project path="hardware/qcom/media-caf" name="CyanogenMod/android_hardware_qcom_media-caf" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom_msm8960" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" groups="qcom_msm8x74" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/qcom/power" name="platform/hardware/qcom/power" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom" />
   <project path="hardware/qcom/sensors" name="platform/hardware/qcom/sensors" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom" />
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom_wlan" />
   <project path="hardware/ril" name="CarbonDev/android_hardware_ril" groups="pdk" />
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="cm" revision="cm-10.2" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="cm" revision="cm-11.0" />
   <project path="hardware/samsung_slsi/exynos5" name="platform/hardware/samsung_slsi/exynos5" remote="aosp" revision="refs/tags/android-4.4_r1" groups="exynos5" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <!-- <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-10.2" />
+  <!-- <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-11.0" />
   <project path="kernel/google/msm" name="CarbonDev/android_kernel_google_msm" />
   <project path="kernel/lge/mako" name="ParanoidAndroid/lge-kernel-mako" remote="gh" revision="jb43" />
-  <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-10.2" />
-  <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" remote="cm" revision="cm-10.2" /> -->
+  <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-11.0" />
+  <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" remote="cm" revision="cm-11.0" /> -->
   <project path="libcore" name="platform/libcore" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -354,12 +353,12 @@
   <project path="packages/apps/CarbonFibers" name="CarbonDev/android_packages_apps_CarbonFibers" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -368,7 +367,7 @@
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Mms" name="platform/packages/apps/Mms" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -379,7 +378,7 @@
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/ROMStats" name="CarbonDev/android_packages_apps_ROMStats" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Settings" name="CarbonDev/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -388,9 +387,9 @@
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" remote="cm" revision="cm-11.0" />
   <!-- <project path="packages/apps/Trebuchet" name="CarbonDev/android_packages_apps_Trebuchet" /> -->
-  <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Wallpapers" name="CarbonDev/android_packages_apps_Carbon_Wallpapers" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" remote="aosp" revision="refs/tags/android-4.4_r1" />
