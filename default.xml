@@ -464,7 +464,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="b52073d9cb1b044f4701bfc32e60b927323740fb" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" remote="aosp" revision="refs/tags/android-4.3.1_r1" groups="pdk" />
   <project path="system/core" name="CyanogenMod/android_system_core" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
