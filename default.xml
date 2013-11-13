@@ -38,7 +38,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" remote="cm" revision="cm-11.0" />
   <project path="cts" name="platform/cts" groups="cts" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="dalvik" name="CyanogenMod/android_dalvik" remote="cm" revision="cm-11.0" />
+  <project path="dalvik" name="CarbonDev/android_dalvik" />
   <project path="developers/build" name="platform/developers/build" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -289,12 +289,13 @@
   <project path="frameworks/ex" name="platform/frameworks/ex" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/mff" name="platform/frameworks/mff" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/ml" name="platform/frameworks/ml" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" remote="cm" revision="cm-11.0" groups="pdk" />
+  <project path="frameworks/native" name="CarbonDev/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/opt/carddav" name="platform/frameworks/opt/carddav" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/opt/colorpicker" name="platform/frameworks/opt/colorpicker" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/opt/datetimepicker" name="platform/frameworks/opt/datetimepicker" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" remote="cm" revision="cm-11.0" />
+  <project path="frameworks/opt/hardware" name="CyanogenMod/android_frameworks_opt_hardware" remote="cm" revision="cm-11.0" />
   <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/opt/mms" name="platform/frameworks/opt/mms" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -339,8 +340,8 @@
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="cm" revision="cm-11.0" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-11.0" />
   <!-- <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-11.0" />
-  <project path="kernel/google/msm" name="CarbonDev/android_kernel_google_msm" />
-  <project path="kernel/lge/mako" name="ParanoidAndroid/lge-kernel-mako" remote="gh" revision="jb43" /> -->
+  <project path="kernel/google/msm" name="CarbonDev/android_kernel_google_msm" /> -->
+  <project path="kernel/lge/mako" name="ParanoidAndroid/lge-kernel-mako" remote="gh" revision="jb43" />
   <project path="kernel/lge/hammerhead" name="CarbonDev/android_kernel_lge_hammerhead" />
   <!-- <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-11.0" />
   <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" remote="cm" revision="cm-11.0" /> -->
