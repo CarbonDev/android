@@ -316,7 +316,7 @@
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/qcom/display" name="CarbonDev/android_hardware_qcom_display" />
-  <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="cm" revision="cm-11.0" />
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" remote="aosp" revision="refs/tags/android-4.4_r1" groups="qcom" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="hardware/qcom/msm8960" name="platform/hardware/qcom/msm8960" remote="aosp" revision="refs/tags/android-4.4_r1" />
