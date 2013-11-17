@@ -30,7 +30,7 @@
   <project path="build" name="CarbonDev/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="CarbonDev/android" revision="kk-nex" />
+  <project path="android" name="CarbonDev/android" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="art" name="platform/art" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bionic" name="CarbonDev/android_bionic" groups="pdk" />
@@ -271,7 +271,7 @@
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/webp" name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/webrtc" name="platform/external/webrtc" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" remote="cm" revision="cm-11.0" />
+  <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="cm" revision="cm-11.0" groups="pdk" />
