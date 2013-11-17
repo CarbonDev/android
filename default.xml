@@ -30,7 +30,7 @@
   <project path="build" name="CarbonDev/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="CarbonDev/android" />
+  <project path="android" name="CarbonDev/android" remote="kk-nex" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="art" name="platform/art" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bionic" name="CarbonDev/android_bionic" groups="pdk" />
