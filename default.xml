@@ -30,7 +30,7 @@
   <project path="build" name="CarbonDev/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="android" name="CarbonDev/android" remote="kk-nex" />
+  <project path="android" name="CarbonDev/android" revision="kk-nex" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="art" name="platform/art" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bionic" name="CarbonDev/android_bionic" groups="pdk" />
@@ -278,7 +278,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/av" name="platform/frameworks/av" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="frameworks/base" name="CarbonDev/android_frameworks_base" />
+  <project path="frameworks/base" name="CarbonDev/android_frameworks_base" revision="kk-nex" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
