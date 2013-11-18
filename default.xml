@@ -36,9 +36,9 @@
   <project path="bionic" name="platform/bionic" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" remote="cm" revision="cm-11.0" />
+  <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="cts" name="platform/cts" groups="cts" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="dalvik" name="CarbonDev/android_dalvik" />
+  <project path="dalvik" name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/asus/deb" name="CarbonDev/android_device_asus_deb" />
   <project path="device/asus/flo" name="CarbonDev/android_device_asus_flo" />
