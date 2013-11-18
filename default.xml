@@ -55,7 +55,7 @@
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="device/lge/hammerhead" name="CarbonDev/android_device_lge_hammerhead" />
+  <project path="device/lge/hammerhead" name="CarbonDev/android_device_lge_hammerhead" revision="kk-nex" />
   <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" remote="aosp" revision="refs/tags/android-4.4_r1" />
