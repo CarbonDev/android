@@ -480,7 +480,7 @@
   <project path="vendor/asus" name="CarbonDev/proprietary_vendor_asus" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.2" />
   <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-10.2" />
-  <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" />
+  <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" revision="kk-nex" />
   <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.2" />
   <project path="vendor/htc" name="CarbonDev/proprietary_vendor_htc" />
   <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.2" />
