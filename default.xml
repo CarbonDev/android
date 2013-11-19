@@ -360,7 +360,7 @@
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4_r1" />
