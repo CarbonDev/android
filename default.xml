@@ -343,15 +343,15 @@
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/CarbonFibers" name="CarbonDev/android_packages_apps_CarbonFibers" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/Dialer" name="CyanogenMod/android_packages_apps_Dialer" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -360,6 +360,7 @@
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="aosp" revision="refs/tags/android-4.4_r1" />
+  <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -486,4 +487,7 @@
   <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.2" />
   <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" />
   <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.2" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
 </manifest>
