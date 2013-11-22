@@ -78,7 +78,7 @@
   <project path="external/arduino" name="platform/external/arduino" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/blktrace" name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="external/bluetooth/bluedroid" name="CyanogenMod/android_external_bluetooth_bluedroid" remote="cm" revision="cm-11.0" groups="pdk" />
+  <project path="external/bluetooth/bluedroid" name="platform/external/bluetooth/bluedroid" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="cm" revision="cm-11.0" />
@@ -341,7 +341,7 @@
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="aosp" revision="refs/tags/android-4.4_r1" />
