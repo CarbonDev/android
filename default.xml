@@ -396,7 +396,7 @@
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" remote="aosp" revision="refs/tags/android-4.4_r1" />
-  <project path="packages/services/Telephony" name="CyanogenMod/android_packages_services_Telephony" remote="cm" revision="cm-11.0" />
+  <project path="packages/services/Telephony" name="platform/packages/services/Telephony" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/wallpapers/BlueBalls" name="CarbonDev/android_packages_wallpapers_BlueBalls" />
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" remote="aosp" revision="refs/tags/android-4.4_r1" />
