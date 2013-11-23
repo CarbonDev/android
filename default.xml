@@ -2,12 +2,9 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="git://android.git.linaro.org/"
-           review="review.android.git.linaro.org" />
-  
-  <remote  name="aosp-upstream"
-           fetch="https://android-review.googlesource.com/"
-           review="https://android-review.googlesource.com/" />
+           fetch="http://android.googlesource.com/" 
+           review="https://android-review.googlesource.com/" 
+           sync-j="1" />
 
   <remote  name="cm"
            fetch="git://github.com/" 
@@ -25,19 +22,6 @@
   <remote  name="gh"
            fetch="https://github.com/"
            sync-j="4" />
-
-  <remote  name="linaro-other"
-           fetch="git://git.linaro.org/" />
-  <remote  name="big-little-switcher-private"
-           fetch="ssh://linaro-big-little-switcher-bot@linaro-private.git.linaro.org/srv/linaro-private.git.linaro.org/" />
-  <remote  name="linaro-landing-team-hisilicon-git"
-           fetch="ssh://linaro-landing-team-hisilicon-bot@hisilicon.git.linaro.org/landing-team/hisilicon/" />
-  <remote  name="linaro-landing-team-fujitsu-git"
-           fetch="ssh://linaro-landing-team-fujitsu-bot@fujitsu.git.linaro.org/landing-team/fujitsu/" />
-  <remote  name="zyga"
-           fetch="git://github.com/zyga/" />
-  <remote  name="igloocommunity"
-           fetch="git://igloocommunity.org/" />
 
   <default revision="refs/heads/kk"
            remote="cr"
