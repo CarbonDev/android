@@ -175,9 +175,9 @@
   <project path="external/junit" name="platform/external/junit" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" remote="cm" revision="cm-11.0" />
-  <project path="external/koush/ion" name="CyanogenMod/ion" remote="cm" revision="cm-10.2" />
-  <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" remote="cm" revision="cm-10.2" />
-  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" remote="cm" revision="cm-10.2" />
+  <project path="external/koush/ion" name="CyanogenMod/ion" remote="cm" revision="cm-11.0" />
+  <project path="external/koush/AndroidAsync" name="CyanogenMod/AndroidAsync" remote="cm" revision="cm-11.0" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" remote="cm" revision="cm-11.0" />
   <project path="external/koush/Widgets" name="CyanogenMod/Widgets" remote="cm" revision="cm-11.0" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/libffi" name="platform/external/libffi" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
