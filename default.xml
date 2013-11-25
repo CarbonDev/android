@@ -406,7 +406,7 @@
   <project path="packages/apps/Dialer" name="CarbonDev/android_packages_apps_Dialer" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/Email" name="SlimRoms/packages_apps_Email" remote="gh" revision="jb4.3" />
-  <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" remote="cm" revision="cm-10.2" />
+  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="packages/apps/Gallery2" name="CarbonDev/android_packages_apps_Gallery2" />
   <project path="packages/apps/HALO" name="UltimatumKang/HALO" remote="gh" revision="master" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
