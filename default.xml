@@ -454,7 +454,7 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="b52073d9cb1b044f4701bfc32e60b927323740fb" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
-  <project path="system/core" name="platform/system/core" remote="aosp" revision="master" />
+  <project path="system/core" name="CarbonDev/android_system_core" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="system/netd" name="platform/system/netd" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
