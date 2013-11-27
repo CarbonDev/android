@@ -27,7 +27,7 @@
            remote="cr"
            sync-j="4" />
 
-  <project path="build" name="CarbonDev/android_build" revision="kk-nex" groups="pdk" >
+  <project path="build" name="CarbonDev/android_build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="android" name="CarbonDev/android" revision="kk-nex" />
