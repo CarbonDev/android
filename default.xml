@@ -32,13 +32,13 @@
   </project>
   <project path="android" name="CarbonDev/android" revision="kk-nex" />
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
-  <project path="art" name="platform/art" remote="aosp" revision="master" />
-  <project path="bionic" name="platform/bionic" remote="aosp" revision="master" />
+  <project path="art" name="CarbonDev/android_art" />
+  <project path="bionic" name="CarbonDev/android_bionic" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="cts" name="platform/cts" groups="cts" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
-  <project path="dalvik" name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
+  <project path="dalvik" name="CarbonDev/android_dalvik" />
   <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="device/asus/deb" name="CarbonDev/android_device_asus_deb" />
   <project path="device/asus/flo" name="CarbonDev/android_device_asus_flo" />
@@ -246,7 +246,7 @@
   <project path="external/sepolicy" name="CyanogenMod/android_external_sepolicy" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/sfntly" name="platform/external/sfntly" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
-  <project path="external/skia" name="platform/external/skia" remote="aosp" revision="master" />
+  <project path="external/skia" name="platform/external/skia" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/smali" name="platform/external/smali" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
