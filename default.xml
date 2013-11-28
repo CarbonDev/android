@@ -483,23 +483,22 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
-  <project path="vendor/akm" name="proprietary_vendor_akm" remote="tm" revision="cm-10.2" />
-  <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-10.2" />
+  <project path="vendor/akm" name="proprietary_vendor_akm" remote="tm" revision="cm-11.0" />
+  <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-11.0" />
   <project path="vendor/asus" name="CarbonDev/proprietary_vendor_asus" />
   <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.2" />
-  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-10.2" />
+  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-11.0" />
   <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" />
-  <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-10.2" />
+  <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-11.0" />
   <project path="vendor/htc" name="CarbonDev/proprietary_vendor_htc" />
-  <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-10.2" />
-  <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-10.2" />
+  <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-11.0" />
+  <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-11.0" />
   <project path="vendor/lge" name="CarbonDev/proprietary_vendor_lge" />
-  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-10.2" />
-  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-10.2" />
-  <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-10.2" />
-  <project path="vendor/oppo" name="proprietary_vendor_oppo" remote="tm" revision="cm-10.2" />
+  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-11.0" />
+  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-11.0" />
+  <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-11.0" />
   <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" />
-  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-10.2" />
+  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-11.0" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
