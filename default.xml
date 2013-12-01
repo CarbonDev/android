@@ -278,7 +278,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/zxing" name="platform/external/zxing" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="frameworks/av" name="platform/frameworks/av" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
-  <project path="frameworks/base" name="CarbonDev/android_frameworks_base" revision="asp" />
+  <project path="frameworks/base" name="CarbonDev/android_frameworks_base" revision="as" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
