@@ -470,7 +470,7 @@
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="system/core" name="CarbonDev/android_system_core" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" remote="cm" revision="cm-11.0" groups="pdk" />
-  <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" remote="cm" revision="cm-11.0" />
+  <project path="system/media" name="CarbonDev/android_system_media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" remote="cm" revision="cm-11.0" groups="qcom" />
   <project path="system/security" name="platform/system/security" groups="pdk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
