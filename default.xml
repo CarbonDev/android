@@ -361,7 +361,7 @@
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Dialer" name="CyanogenMod/android_packages_apps_Dialer" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/DSPManager" name="omnirom/android_packages_apps_DSPManager" remote="gh" revision="android-4.4" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
@@ -376,6 +376,7 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
+  <project path="packages/apps/PerformanceControl" name="omnirom/android_packages_apps_PerformanceControl" remote="gh" revision="android-4.4" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
