@@ -118,6 +118,7 @@
   <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/clang" name="CyanogenMod/android_external_clang" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/compiler-rt" name="CyanogenMod/android_external_compiler-rt" remote="cm" revision="cm-11.0" groups="pdk" />
+  <project path="external/connectivity" name="CyanogenMod/android_external_connectivity" remote="cm" revision="cm-11.0" />
   <project path="external/crda" name="CyanogenMod/android_external_crda" remote="cm" revision="cm-11.0" />
   <project path="external/dexmaker" name="platform/external/dexmaker" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
@@ -350,6 +351,7 @@
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.4_r1.2" />
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" remote="cm" revision="cm-11.0" />
