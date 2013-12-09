@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="http://android.googlesource.com/" 
-           review="https://android-review.googlesource.com/" 
+           fetch="http://android.googlesource.com/"
+           review="https://android-review.googlesource.com/"
            sync-j="1" />
 
   <remote  name="cm"
@@ -16,12 +16,12 @@
            review="review.carbon-rom.com"
            sync-j="4" />
 
-  <remote  name="tm"
-           fetch="git://github.com/TheMuppets/" />
-           
   <remote  name="gh"
            fetch="https://github.com/"
            sync-j="4" />
+
+  <remote  name="tm"
+           fetch="git://github.com/TheMuppets/" />
 
   <default revision="refs/heads/kk"
            remote="cr"
@@ -44,10 +44,6 @@
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="device/asus/deb" name="CarbonDev/android_device_asus_deb" />
-  <project path="device/asus/flo" name="CarbonDev/android_device_asus_flo" />
-  <project path="device/asus/grouper" name="CarbonDev/android_device_asus_grouper" />
-  <project path="device/asus/tilapia" name="CarbonDev/android_device_asus_tilapia" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-11.0" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -59,16 +55,7 @@
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="device/lge/hammerhead" name="CarbonDev/android_device_lge_hammerhead" />
-  <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="device/lge/mako" name="CarbonDev/android_device_lge_mako" />
-  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="device/samsung/maguro" name="CarbonDev/android_device_samsung_maguro" />
-  <project path="device/samsung/manta" name="CarbonDev/android_device_samsung_manta" />
-  <project path="device/samsung/toro" name="CarbonDev/android_device_samsung_toro" />
-  <project path="device/samsung/toroplus" name="CarbonDev/android_device_samsung_toroplus" />
-  <project path="device/samsung/tuna" name="CarbonDev/android_device_samsung_tuna" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/android-clat" name="platform/external/android-clat" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -340,12 +327,6 @@
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="cm" revision="cm-11.0" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-11.0" />
-  <!-- <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" remote="cm" revision="cm-11.0" />
-  <project path="kernel/google/msm" name="CarbonDev/android_kernel_google_msm" /> -->
-  <project path="kernel/lge/mako" name="ParanoidAndroid/lge-kernel-mako" remote="gh" revision="jb43" />
-  <project path="kernel/lge/hammerhead" name="CarbonDev/android_kernel_lge_hammerhead" />
-  <!-- <project path="kernel/samsung/manta" name="CyanogenMod/android_kernel_samsung_manta" remote="cm" revision="cm-11.0" />
-  <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" remote="cm" revision="cm-11.0" /> -->
   <project path="libcore" name="CyanogenMod/android_libcore" remote="cm" revision="cm-11.0" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -464,8 +445,7 @@
   <project path="prebuilts/python/darwin-x86/2.7.5" name="platform/prebuilts/python/darwin-x86/2.7.5" groups="darwin" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="prebuilts/python/linux-x86/2.7.5" name="platform/prebuilts/python/linux-x86/2.7.5" groups="linux" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="prebuilts/qemu-kernel" name="platform/prebuilts/qemu-kernel" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <!-- apparently, requesting the tag is randomly returning bad results on this  one... fix whenever we update tags -->
-  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="b52073d9cb1b044f4701bfc32e60b927323740fb" groups="pdk" />
+  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="sdk" name="platform/sdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="system/core" name="CarbonDev/android_system_core" groups="pdk" />
@@ -486,22 +466,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="vendor/akm" name="proprietary_vendor_akm" remote="tm" revision="cm-11.0" />
-  <project path="vendor/audience" name="proprietary_vendor_audience" remote="tm" revision="cm-11.0" />
-  <project path="vendor/asus" name="CarbonDev/proprietary_vendor_asus" />
-  <project path="vendor/bn" name="proprietary_vendor_bn" remote="tm" revision="cm-10.2" />
-  <project path="vendor/broadcom" name="proprietary_vendor_broadcom" remote="tm" revision="cm-11.0" />
   <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" />
-  <project path="vendor/elan" name="proprietary_vendor_elan" remote="tm" revision="cm-11.0" />
-  <project path="vendor/htc" name="CarbonDev/proprietary_vendor_htc" />
-  <project path="vendor/imgtec" name="proprietary_vendor_imgtec" remote="tm" revision="cm-11.0" />
-  <project path="vendor/invensense" name="proprietary_vendor_invensense" remote="tm" revision="cm-11.0" />
-  <project path="vendor/lge" name="CarbonDev/proprietary_vendor_lge" />
-  <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="tm" revision="cm-11.0" />
-  <project path="vendor/nvidia" name="proprietary_vendor_nvidia" remote="tm" revision="cm-11.0" />
-  <project path="vendor/nxp" name="proprietary_vendor_nxp" remote="tm" revision="cm-11.0" />
-  <project path="vendor/samsung" name="CarbonDev/proprietary_vendor_samsung" />
-  <project path="vendor/widevine" name="proprietary_vendor_widevine" remote="tm" revision="cm-11.0" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="cm-11.0" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" remote="cm" revision="cm-11.0" />
