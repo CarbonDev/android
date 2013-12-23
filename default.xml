@@ -43,7 +43,7 @@
   <project path="developers/demos" name="platform/developers/demos" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="developers/docs" name="platform/developers/docs" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="developers/samples/android" name="platform/developers/samples/android" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="development" name="platform/development" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="development" name="CarbonDev/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" remote="cm" revision="cm-11.0" />
   <project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="device/generic/common" name="device/generic/common" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -384,7 +384,7 @@
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" remote="cm" revision="cm-11.0" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" remote="cm" revision="cm-11.0" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" remote="cm" revision="cm-11.0" />
+  <project path="packages/providers/MediaProvider" name="CarbonDev/android_packages_providers_MediaProvider" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" remote="cm" revision="cm-11.0" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
