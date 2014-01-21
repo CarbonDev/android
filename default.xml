@@ -336,6 +336,7 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Camera2" name="CyanogenMod/android_packages_apps_Camera2" remote="cm" revision="cm-11.0" />
+  <project path="packages/apps/CarbonAbout" name="CarbonDev/android_packages_apps_CarbonAbout" />
   <project path="packages/apps/CarbonFibers" name="CarbonDev/android_packages_apps_CarbonFibers" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
