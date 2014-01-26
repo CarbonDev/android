@@ -230,6 +230,7 @@
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
+  <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" remote="cm" revision="cm-11.0" />
   <project path="external/regex-re2" name="platform/external/regex-re2" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/replicaisland" name="platform/external/replicaisland" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
