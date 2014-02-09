@@ -378,7 +378,7 @@
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
-  <project path="packages/apps/Torch" name="SlimRoms/packages_apps_Torch" remote="github" revision="kk4.4" />
+  <project path="packages/apps/Torch" name="SlimRoms/packages_apps_Torch" remote="gh" revision="kk4.4" />
   <!-- <project path="packages/apps/Trebuchet" name="CarbonDev/android_packages_apps_Trebuchet" /> -->
   <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Wallpapers" name="CarbonDev/android_packages_apps_Carbon_Wallpapers" />
