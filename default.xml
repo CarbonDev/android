@@ -292,6 +292,7 @@
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/opt/telephony" name="CyanogenMod/android_frameworks_opt_telephony" remote="cm" revision="cm-11.0" groups="pdk" />
+  <project path="frameworks/opt/telephony-msim" name="CyanogenMod/android_frameworks_opt_telephony-msim" remote="cm" revision="cm-11.0" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" remote="cm" revision="cm-11.0" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" remote="cm" revision="cm-11.0" />
