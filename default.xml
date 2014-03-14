@@ -338,7 +338,7 @@
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/Camera2" name="CarbonDev/packages_apps_Camera2" />
+  <project path="packages/apps/Camera2" name="CarbonDev/android_packages_apps_Camera2" />
   <project path="packages/apps/CarbonAbout" name="CarbonDev/android_packages_apps_CarbonAbout" />
   <project path="packages/apps/CarbonDelta" name="CarbonDev/android_packages_apps_CarbonDelta" />
   <project path="packages/apps/CarbonFibers" name="CarbonDev/android_packages_apps_CarbonFibers" />
@@ -382,7 +382,7 @@
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Torch" name="SlimRoms/packages_apps_Torch" remote="gh" revision="kk4.4" />
   <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" remote="cm" revision="cm-11.0" />
-  <project path="packages/apps/Wallpapers" name="CarbonDev/android_packages_apps_Carbon_Wallpapers" />
+  <project path="packages/apps/Wallpapers" name="CarbonDev/android_packages_apps_CarbonWallpapers" />
   <project path="packages/experimental" name="platform/packages/experimental" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/inputmethods/LatinIME" name="CarbonDev/android_packages_inputmethods_LatinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
