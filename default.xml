@@ -353,23 +353,19 @@
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Gallery2" name="CarbonDev/android_packages_apps_Gallery2" />
-  <project path="packages/apps/HALO" name="UltimatumKang/HALO" remote="gh" revision="master" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/InCallUI" name="CarbonDev/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/LockClock" name="CyanogenMod/android_packages_apps_LockClock" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/Mms" name="CarbonDev/android_packages_apps_Mms" />
-  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/PackageInstaller" name="omnirom/android_packages_apps_PackageInstaller" remote="gh" revision="android-4.4" />
-  <project path="packages/apps/PerformanceControl" name="omnirom/android_packages_apps_PerformanceControl" remote="gh" revision="android-4.4" />
   <project path="packages/apps/Phone" name="platform/packages/apps/Phone" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/ROMStats" name="CarbonDev/android_packages_apps_ROMStats" />
-  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-11.0" />
   <project path="packages/apps/ScreenRecorder" name="ChameleonOS/android_packages_apps_ScreenRecorder" remote="gh" revision="kitkat" />
   <project path="packages/apps/Settings" name="CarbonDev/android_packages_apps_Settings" />
