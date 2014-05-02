@@ -13,7 +13,7 @@
 
   <remote  name="cr"
            fetch="git://github.com/"
-           review="review.carbon-rom.com"
+           review="review.carbonrom.org"
            sync-j="4" />
 
   <remote  name="gh"
