@@ -39,7 +39,7 @@ Before you continue --> run this in the terminal
     repo init -u https://github.com/CarbonDev/android.git -b kk && repo sync -f
 
 *PLEASE NOTE THAT YOU MUST USE THE -f flag when repo syncing/initializing if you want to sync with our default -j4 setup as android.googlesource seems to like to reject your requests if you set your -jflag too high. 
-if you wish to avoid this issue run it repo sync -j1 otherwise -f (force) is reccomended so it will resync the repos it gets error codes on. Thank you and have a nice day.*
+if you wish to avoid this issue run it repo sync -j1 otherwise -f (force) is recommended so it will resync the repos it gets error codes on. Thank you and have a nice day.*
 
 
 Building the System
@@ -50,9 +50,7 @@ Initialize the environment with the envsetup.sh script. Note that replacing "sou
     . build/envsetup.sh
     lunch
 
-
 Enter the number of the build you want to start and press enter
-
 
 Build the Code:
 
@@ -60,24 +58,14 @@ Build the Code:
     make otapackage -j7 = No Squisher/No Opticharger
 
 
----------------
-Git TrickMarks
-
-    Creating a git branch with no ancestry:
-    git checkout --orphan <foo>
-    git rm --cached $(git ls-files)
-    git add NOTICE
-    git commit -m "dummy commit"
-    Then u push the goodies ;)
-
 Submitting Patches
 ------------------
 Patches are always welcome!  Please submit your patches via CarbonDev Gerrit!
 You can do this by using these commands:
 
     Setting up for repo upload: (run these commands once)
-    git config --global review.review.carbon-rom.com.username <Your username registered at CarbonDev gerrit>
-    git config --global review.review.carbon-rom.com.email <Your email registered at CarbonDev gerrit>
+    git config --global review.review.carbonrom.org.username <Your username registered at CarbonDev gerrit>
+    git config --global review.review.carbonrom.org.email <Your email registered at CarbonDev gerrit>
 
     (From root android directory)
     . build/envsetup.sh
@@ -91,6 +79,6 @@ For more help on using this tool, use this command: repo help upload
 Make your changes and commit with a detailed message, starting with what you are working with (i.e. vision: Update Kernel)
 Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
 
-To view the status of your and others' patches, visit [Carbondev Code Review](http://review.carbon-rom.com/)
+To view the status of your and others' patches, visit [Carbondev Code Review](http://review.carbonrom.org/)
 
 If you have any issues/questions please contact us in channel: #teamcarbon  server: irc.freenode.net
