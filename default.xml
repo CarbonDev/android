@@ -134,6 +134,7 @@
   <project path="external/eyes-free" name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" remote="cm" revision="cm-11.0" />
   <project path="external/fdlibm" name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="external/ffmpeg" name="CyanogenMod/android_external_ffmpeg" remote="cm" revision="cm-11.0" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" groups="pdk" remote="cm" revision="cm-11.0" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/fsck_msdos" name="CyanogenMod/android_external_fsck_msdos" remote="cm" revision="cm-11.0" />
@@ -255,6 +256,7 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/srec" name="platform/external/srec" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" remote="cm" revision="cm-11.0" />
   <project path="external/stlport" name="CarbonDev/android_external_stlport" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" remote="cm" revision="cm-11.0" />
   <project path="external/stressapptest" name="platform/external/stressapptest" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
