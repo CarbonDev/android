@@ -231,7 +231,7 @@
   <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/openfst" name="platform/external/openfst" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/openssh" name="CyanogenMod/android_external_openssh" remote="cm" revision="cm-11.0" />
-  <project path="external/openssl" name="platform/external/openssl" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
+  <project path="external/openssl" name="CyanogenMod/android_external_openssl" groups="pdk" remote="cm" revision="cm-11.0" />
   <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/pigz" name="CyanogenMod/android_external_pigz" remote="cm" revision="cm-11.0" />
   <project path="external/pixman" name="platform/external/pixman" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
