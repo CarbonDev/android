@@ -162,6 +162,7 @@
   <project path="external/iptables" name="platform/external/iptables" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/iputils" name="platform/external/iputils" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/jack" name="platform/external/jack" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
+  <project path="external/JakeWharton/butterknife" name="CyanogenMod/android_external_JakeWharton_butterknife" remote="cm" revision="cm-11.0" />
   <project path="external/javasqlite" name="CyanogenMod/android_external_javasqlite" remote="cm" revision="cm-11.0" />
   <project path="external/javassist" name="platform/external/javassist" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/jdiff" name="platform/external/jdiff" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
@@ -171,6 +172,8 @@
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/jsilver" name="platform/external/jsilver" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/jsr305" name="platform/external/jsr305" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
+  <project path="external/jsr308" name="CyanogenMod/android_external_jsr308" remote="cm" revision="cm-11.0" />
+  <project path="external/jsr330" name="CyanogenMod/android_external_jsr330" remote="cm" revision="cm-11.0" />
   <project path="external/junit" name="platform/external/junit" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/kernel-headers" name="platform/external/kernel-headers" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/kissfft" name="CyanogenMod/android_external_kissfft" remote="cm" revision="cm-11.0" />
@@ -261,6 +264,8 @@
   <project path="external/speex" name="platform/external/speex" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/spongycastle" name="CyanogenMod/android_external_spongycastle" remote="cm" revision="cm-11.0" groups="pdk" />
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" remote="cm" revision="cm-11.0" groups="pdk" />
+  <project path="external/square/dagger" name="CyanogenMod/android_external_square_dagger" remote="cm" revision="cm-11.0" />
+  <project path="external/square/javawriter" name="CyanogenMod/android_external_square_javawriter" remote="cm" revision="cm-11.0" />
   <project path="external/srec" name="platform/external/srec" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/srtp" name="platform/external/srtp" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="external/stagefright-plugins" name="CyanogenMod/android_external_stagefright-plugins" remote="cm" revision="cm-11.0" />
