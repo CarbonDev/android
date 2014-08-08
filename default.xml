@@ -2,33 +2,40 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="http://android.googlesource.com/"
-           review="https://android-review.googlesource.com/"
+           fetch="https://android.googlesource.com/"
+           review="android-review.googlesource.com"
            sync-j="1" />
 
   <remote  name="cm"
            fetch="git://github.com/"
            review="review.cyanogenmod.org"
+           sync-c="true"
            sync-j="4" />
 
   <remote  name="cr"
            fetch="git://github.com/"
            review="review.carbonrom.org"
+           sync-c="true"
            sync-j="4" />
 
   <remote  name="gh"
-           fetch="https://github.com/"
+           fetch="git://github.com/"
+           sync-c="true"
            sync-j="4" />
 
   <remote  name="sf"
            fetch="git://git.code.sf.net/p/"
+           sync-c="true"
            sync-j="4" />
 
   <remote  name="tm"
-           fetch="git://github.com/TheMuppets/" />
+           fetch="git://github.com/TheMuppets/"
+           sync-c="true"
+           sync-j="4" />
 
   <default revision="refs/heads/kk"
            remote="cr"
+           sync-c="true"
            sync-j="4" />
 
   <project path="build" name="CarbonDev/android_build" groups="pdk" >
