@@ -90,6 +90,7 @@
   <project path="external/bson" name="CyanogenMod/android_external_bson" remote="cm" revision="cm-11.0" />
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="cm" revision="cm-11.0" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="external/cardslib" name="CyanogenMod/android_external_cardslib" remote="cm" revision="cm-11.0" />
   <project path="external/ceres-solver" name="platform/external/ceres-solver" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/checkpolicy" name="platform/external/checkpolicy" groups="pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/chromium" name="platform/external/chromium" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
