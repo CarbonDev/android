@@ -244,7 +244,7 @@
   <project path="external/ntfs-3g" name="CyanogenMod/android_external_ntfs-3g" remote="cm" revision="cm-11.0" />
   <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/objenesis" name="platform/external/objenesis" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
-  <project path="external/okhttp" name="platform/external/okhttp" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
+  <project path="external/okhttp" name="CyanogenMod/android_external_okhttp" remote="cm" revision="cm-11.0" />
   <project path="external/open-vcdiff" name="platform/external/open-vcdiff" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="external/openfst" name="platform/external/openfst" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
